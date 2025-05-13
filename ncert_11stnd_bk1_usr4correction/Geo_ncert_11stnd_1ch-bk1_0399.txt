@@ -1,0 +1,13 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0399>
+#निःसंदेह पृथ्वी का आरंभिक वायुमंडल जीवन के विकास के लिए अनुकूल नहीं था ।
+niHsaMxeha_1        1        -        -        9:vkvn        -        -        -        -
+pqWvI_1        2        -        -        4:r6        -        -        -        -
+AraMBika_1        3        -        -        4:mod        -        -        -        -
+vAyumaMdala_1        4        -        -        9:k1        -        -        -        -
+jIvana_1        5        -        -        6:r6        -        -        -        -
+vikAsa_1        6        -        -        9:rt        -        -        -        -
+anukUla_1        7        -        -        9:k1s        -        -        -        -
+nahIM_1        8        -        -        9:neg        -        -        -        -
+hE_1-past        9        -        -        0:main        -        -        -        -
+%negative
+</sent_id>

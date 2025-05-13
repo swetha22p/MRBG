@@ -1,0 +1,20 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0113>
+#भू-आकृति, जलवायु, वनस्पति, आर्थिक क्रियायें,व्यवसाय एवं सांस्कृतिक विकास ने एक निश्चित ऐतिहासिक पथ का अनुसरण किया है ।
+BU+Akqwi_1        16        -        -        -        -        -        -        5:op1
+jalavAyu_1        2        -        -        -        -        -        -        5:op2
+vanaspawi_1        3        -        -        -        -        -        -        5:op3
+ArWika_1        4        -        -        18:mod        -        -        -        -
+kriyA_1        18        -        pl        -        -        -        -        5:op4
+vyavasAya_1        19        -        -        -        -        -        -        5:op5
+sAMskqwika_1        7        -        -        8:mod        -        -        -        -
+vikAsa_1        8        -        -        -        -        -        -        5:op6
+eka_2        9        -        -        12:quant        -        -        -        -
+niSciwa_1        10        -        -        12:mod        -        -        -        -
+EwihAsika_1        11        -        -        12:mod        -        -        -        -
+paWa_1        12        -        -        13:k2        -        -        -        -
+anusaraNa_1        14        -        -        -        -        -        -        13:kriyAmUla
+kara_1-yA_hE_1        15        -        -        -        -        -        -        13:verbalizer
+[cp_1]        13        -        -        0:main        -        -        -        -
+[conj_1]        5        -        -        13:k1        -        -        -        -
+%affirmative
+</sent_id>

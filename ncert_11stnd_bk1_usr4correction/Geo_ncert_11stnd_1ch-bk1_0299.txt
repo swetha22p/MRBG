@@ -1,0 +1,7 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0299>
+#इसे विस्तरित ब्रह्मांड परिकल्पना भी कहा जाता है ।
+$wyax        1        -        -        4:k2        Geo_ncert_11stnd_1ch-bk1_0298.7:coref        proximal        -        -
+viswariwa+brahmAMda+parikalpanA        2        ne        -        3:k2s        -        BI_2        -        -
+kaha_1-yA_jA_wA_hE_1        3        -        -        0:main        -        -        -        -        
+%pass_affirmative
+</sent_id>

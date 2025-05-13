@@ -1,0 +1,23 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0186b>
+#एवं सीमाओं, निकटस्थ पडोसी इकाइयों के मध्य भू-वैन्यासिक संबंध, निर्वाचन क्षेत्र का परिसीमन एवं चुनाव परिदृश्य का विश्लेषण करता है ।
+$wyax        21        -        -        12:k1        Geo_ncert_11stnd_1ch-bk1_0182T.2:coref        proximal        -        -
+sImA_1        1        -        pl        -        -        -        -        19:op1
+nikatasWa_1        2        -        -        4:mod        -        -        -        -
+padZosI_1        3        -        -        -        -        -        -        20:mod
+ikAI_1        4        -        pl        -        -        -        -        20:head
+[nc_3]        20        -        -        5:r6        -        -        -        -
+BU+vEnyAsika_1        6        -        -        8:mod        -        -        -        -
+saMbaMXa_1        8        -        -        -        -        -        -        19:op2
+nirvAcana_1        15        -        -        -        -        -        -        9:mod
+kRewra_1        16        -        -        -        -        -        -        9:head
+[nc_1]        9        -        -        10:r6        -        -        -        -
+parisImana_1        10        -        -        -        -        -        -        19:op3
+cunAva_1        17        -        -        -        -        -        -        11:mod
+parixqSya_1        18        -        -        -        -        -        -        11:head
+[nc_2]        11        -        -        -        -        -        -        19:op4
+viSleRaNa_1        13        -        -        -        -        -        -        12:kriyAmUla
+kara_1-wA_hE_1        14        -        -        -        -        -        -        12:verbalizer
+[cp_1]        12        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0186a.15:samuccaya        -        -        -
+[conj_1]        19        -        -        12:k2        -        -        -        -
+%affirmative
+</sent_id>

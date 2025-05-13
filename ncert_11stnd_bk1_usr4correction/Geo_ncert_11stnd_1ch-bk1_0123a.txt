@@ -1,0 +1,19 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0123a>
+#जैव-भूगोल,वनस्पति शास्त्र, जीव विज्ञान तथा पारिस्थिति की विज्ञान से अत्यधिक निकटता से जुडा है ।
+jEva_1        1        -        -        2:mod        -        -        -        -
+BUgola_1        2        -        -        11:k1        -        -        -        -
+vanaspawi_1        3        -        -        -        -        -        -        14:mod
+SAswra_1        4        -        -        -        -        -        -        14:head
+[nc_1]        14        -        -        -        -        -        -        12:op1
+jIva_1        5        -        -        -        -        -        -        15:mod
+vijFAna_1        6        -        -        -        -        -        -        15:head
+[nc_2]        15        -        -        -        -        -        -        12:op2
+pArisWiwi_1        7        -        -        8:r6        -        -        -        -
+vijFAna_1        8        -        -        -        -        -        -        12:op3
+awyaXika_1        9        -        -        10:intf        -        -        -        -
+nikatawA_1        10        -        -        11:krvn                -        -        -        -
+judZa_1        13        -        kqw        11:k1s        -        -        -        -
+hE_1-pres        11        -        -        0:main        -        -        -        -
+[conj_1]        12        -        -        13:k2        -        -        -        -
+%affirmative
+</sent_id>

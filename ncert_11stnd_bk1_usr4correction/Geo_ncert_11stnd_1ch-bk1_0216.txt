@@ -1,0 +1,16 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0216>
+#भू-आकृतियाँ आधार प्रस्तुत करती हैं जिसपर मानव क्रियाएँ संपन्न होती हैं ।
+BU+Akqwi_1        10        -        pl        2:k1        -        -        -        -
+AXAra_1        14        -        -        2:k2        -        -        -        -
+praswuwa_1        6        -        -        -        -        -        -        2:kriyAmUla
+kara_1-wA_hE_1        7        -        -        -        -        -        -        2:verbalizer
+[cp_1]        2        -        -        0:main        -        -        -        -
+$yax        3        -        -        5:k7        14:coref        -        -        -
+mAnava_1        12        anim        -        -        -        -        -        4:mod
+kriyA_1        13        -        pl        -        -        -        -        4:head
+[nc_2]        4        -        -        5:k1        -        -        -        -
+saMpanna_1        8        -        -        -        -        -        -        5:kriyAmUla
+ho_1-wA_hE_1        9        -        -        -        -        -        -        5:verbalizer
+[cp_2]        5        -        -        14:rcelab        -        -        -        -
+%affirmative
+</sent_id>

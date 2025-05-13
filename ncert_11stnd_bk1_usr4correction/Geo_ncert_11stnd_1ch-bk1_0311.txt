@@ -1,0 +1,14 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0311>
+#बिग बेंग की प्रक्रिया में इस अति छोटे गोलक में भीषण विस्फोट हुआ ।
+##बिग बैंग की प्रक्रिया में इस अति छोटे गोलक में भीषण विस्फोट हुआ।
+biga+bEMga        1        ne        -        3:r6        -        -        -        -
+prakriyA_1        3        -        -        10:k7        -        -        -        -
+$wyax        4        -        -        7:dem        -        proximal        -        -
+awi_1        5        -        -        6:intf        -        -        -        -
+CotA_1        6        -        pl        7:mod        -        -        -        -
+golaka_1        7        -        -        10:k7p        -        -        -        -
+BIRaNa_1        8        -        -        9:mod        -        -        -        -
+visPota_1        9        -        -        10:k1        -        -        -        -
+ho_1-yA_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

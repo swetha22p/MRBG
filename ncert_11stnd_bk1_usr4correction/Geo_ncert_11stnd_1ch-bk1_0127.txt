@@ -1,0 +1,18 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0127>
+#भू-आभ को द्वि-आयामी में परिवर्तित करने का समाधान लेखाचित्रीय गणितीय रीति से निर्मित प्रक्षेपण द्वारा प्राप्त हो सकता है ।
+BU+ABa_1        15        -        -        4:k2        -        -        -        -
+xvi+AyAmI_1        2        -        -        4:k7        -        -        -        -
+parivarwiwa_1        11        -        -        -        -        -        -        4:kriyAmUla
+kara_1        12        -        -        -        -        -        -        4:verbalizer
+[cp_1]        4        -        -        5:r6        -        -        -        -
+samAXAna_1        17        -        -        10:k1        -        -        -        -
+leKAciwrIya_1        18        -        -        7:mod        -        -        -        5:head
+gaNiwIya_1        6        -        -        7:mod        -        -        -        -
+rIwi_1        7        -        -        8:k3        -        -        -        -
+nirmiwa_1        8        -        -        9:mod        -        -        -        -
+prakRepaNa_1        9        -        -        10:k3        -        -        -        -
+prApwa_1        13        -        -        -        -        -        -        10:kriyAmUla
+ho_1-0_sakawA_hE_1        14        -        -        -        -        -        -        10:verbalizer
+[cp_2]        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

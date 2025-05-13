@@ -1,0 +1,14 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0099a>
+#अतः भूगोल न केवल एक स्थान से दूसरे स्थान में तथ्यों की भिन्नता पर ध्यान देता है।
+BUgola_1        1        -        -        9:k1        -        -        -        -
+eka_2        3        -        -        4:quant        -        -        -        -
+sWAna_1        4        -        -        9:k5        -        -        -        -
+xUsarA_1        5        -        -        6:ord        -        -        -        -
+sWAna_1        6        -        -        9:k7p        -        -        -        -
+waWya_1        7        -        pl        8:r6        -        -        -        -
+BinnawA_1        8        -        -        9:k7        -        -        -        -
+XyAna_1        10        -        -        -        -        -        -        9:kriyAmUla
+xe_1-wA_hE_1        11        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0098.7:pariNAma        -        -        -
+%affirmative
+</sent_id>

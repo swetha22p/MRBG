@@ -1,0 +1,14 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0108b>
+#परंतु उसमें विद्यमान दर्रे मध्य एशिया के आक्रमणकर्ताओं एवं प्रव्रजकों को मार्ग की सुविधा देते रहे हैं ।
+$wyax        1        -        -        2:k7        Geo_ncert_11stnd_1ch-bk1_0108a.2:coref        distal        -        -
+vixyamAna_1        2        -        -        3:mod        -        -        -        -
+xarrA_1        3        -        pl        10:k1        -        -        -        -
+maXya+eSiyA        4        place        -        6:r6        -        -        -        -
+AkramaNakarwA_1        6        -        pl        -        -        -        -        11:op1
+pravrajaka_1        7        -        pl        -        -        -        -        11:op2
+mArga_1        8        -        -        9:r6        -        -        -        -
+suviXA_1        9        -        -        10:k2        -        -        -        -
+xe_1-wA_rahA_hE_1        10        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0108a.7:viroXI        -        -        -
+[conj_1]        11        -        -        10:k4a        -        -        -        -
+%affirmative
+</sent_id>

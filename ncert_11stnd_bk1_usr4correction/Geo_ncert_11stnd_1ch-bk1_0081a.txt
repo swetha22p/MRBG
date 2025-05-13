@@ -1,0 +1,11 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0081a>
+#एक विषय के रूप में भूगोल  क्रोड क्षेत्र से संबंधित होता है ।
+eka_2        1        -        -        2:card        -        -        -        -
+viRaya_1        2        -        -        3:mod        -        -        -        -
+BUgola_1        3        -        -        5:r6        -        -        -        -
+kroda_1        4        -        -        -        -        -        -        9:mod
+kRewra_1        5        -        -        -        -        -        -        9:head
+[nc_1]        9        -        -        6:k1as        -        -        -        -
+ho_1-wA_hE_1        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

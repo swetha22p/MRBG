@@ -1,0 +1,19 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0176a[a][b]>
+#यह धरातल के जल परिमंडल जिसमें समुद्र, नदी, झील तथा अन्य जलाशय सम्मिलित हैं ।
+$wyax        1        -        -        5:k1        Geo_ncert_11stnd_1ch-bk1_0176T.2:coref        proximal        -        -
+XarAwala_1        2        -        -        3:r6        -        -        -        -
+jala_1        11        -        -        -        -        -        -        3:mod
+parimaMdala_1        12        -        -        -        -        -        -        3:head
+[nc_1]        3        -        -        5:k1s        -        -        -        15:op2
+hE_1-pres        5        -        -        0:main        -        -        -        -
+$yax        4        -        -        10:k7        -        -        -        -
+samuxra_1        13        -        -        -        -        -        -        15:op1
+JIla_1        14        -        -        -        -        -        -        15:op2
+naxI_1        6        -        -        -        -        -        -        15:op3
+anya_1        7        -        -        8:mod        -        -        -        -
+jalASaya_1        8        -        -        -        -        -        -        15:op4
+sammiliwa_1        9        -        -        10:k1s        -        -        -        -
+hE_1-pres        10        -        -        0:main        -        -        -        -
+[conj_1]        15        -        -        10:k1        -        -        -        -
+%affirmative
+</sent_id>

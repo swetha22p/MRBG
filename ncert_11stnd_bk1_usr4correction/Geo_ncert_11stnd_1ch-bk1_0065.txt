@@ -1,0 +1,17 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0065>
+#प्राकृतिक संसाथनों का प्रयोग करते हुए मानव अपने सृजनात्मक योगदान का दावा करता है ।
+###प्राकृतिक संसाधनों का प्रयोग करते हुए मानव अपने सृजनात्मक योगदान का दावा करता है ।
+prAkqwika_1        1        -        -        2:mod        -        -        -        -
+saMsAXana_1        2        -        pl        3:k2        -        -        -        -
+prayoga_1        9        -        -        -        -        -        -        3:kriyAmUla
+kara_1        10        -        -        -        -        -        -        3:verbalizer
+[cp_1]        3        -        -        8:rblsk        -        -        -        -
+mAnava_1        4        anim        -        8:k1        -        -        -        -
+apanA        5        -        -        7:r6        -        -        -        -
+sqjanAwmaka_1        6        -        -        7:mod        -        -        -        -
+yogaxAna_1        7        -        -        8:k2        -        -        -        -
+xAvA_1        11        -        -        -        -        -        -        8:kriyAmUla
+kara_1-wA_hE_1        12        -        -        -        -        -        -        8:verbalizer
+[cp_2]        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

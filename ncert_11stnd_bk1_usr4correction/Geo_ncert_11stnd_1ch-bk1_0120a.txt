@@ -1,0 +1,15 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0120a>
+#भौतिक भूगोल एवं प्राकृतिक विज्ञान भौतिक भूगोल की सभी शाखाएँ, जैसा कि रेखाचित्र में दर्शाया गया है।
+BOwika_1        1        -        -        2:mod        -        -        -        -
+BUgola_1        2        -        -        -        -        -        -        12:op1
+prAkqwika_1        3        -        -        4:mod        -        -        -        -
+vijFAna_1        4        -        -        -        -        -        -        12:op2
+BOwika_1        5        -        -        6:mod        -        -        -        -
+BUgola_1        6        -        -        8:r6        -        -        -        -
+saBI_1        7        -        -        8:quant        -        -        -        -
+SAKA_1        8        -        pl        9:k1        -        -        -        -
+reKAciwra_1        10        -        -        11:k7        -        -        -        -
+xarSA_1-yA_jA_yA_hE_1        11        -        -        0:main        -        -        -        -
+[conj_1]        12        -        -        8:r6        -        -        -        -
+%pass_affirmative
+</sent_id>

@@ -1,0 +1,15 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0424b>
+#अथवा वे चट्टानें है, जो हम खनन क्षेत्रों से प्राप्त करते हैं ।
+$wyax        1        -        -        3:k1        7:coref        distal        -        -
+cattAna_1        2        -        pl        3:k1s        -        -        -        -
+hE_1-pres        3        -        -        0:main        -        -        -        -
+$yax        4        -        -        7:k1        -        -        -        -
+$speaker        5        anim        -        7:k1        -        -        -        -
+Kanana_1        10        -        -        -        -        -        -        6:mod
+kRewra_1        11        -        -        -        -        -        -        6:head
+[nc_1]        6        -        -        7:k2        -        -        -        -
+prApwa_1        8        -        -        -        -        -        -        7:kriyAmUla
+kara_1-wA_hE_1        9        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        2:rcelab        Geo_ncert_11stnd_1ch-bk1_0424a.9:anyawra        -        -        -
+%affirmative
+</sent_id>

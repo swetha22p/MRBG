@@ -1,0 +1,20 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0365b>
+#कि पृथ्वी के बनने के कुछ समय बाद ही मंगल ग्रह के 1 से 3 गुणा बडे आकार का पिंड पृथ्वी से टकराया ।
+pqWvI        1        ne        -        2:k2        -        -        -        -
+bana_1        2        -        -        4:r6        -        -        -        -
+kuCa_1        3        -        -        4:quant        -        -        -        -
+samaya_1        4        -        -        5:rkl        -        -        -        -
+bAxa_1        5        -        -        15:k7t        -        hI_2        -        -
+maMgala        6        ne        -        12:r6        -        -        -        -
+graha_1        7        -        -        6:rs        -        -        -        -
+1        8        numex        -        -        -        -        -        16:start
+3        9        numex        -        -        -        -        -        16:end
+guNA_1        10        comparmore        -        15:k1        -        -        -        -
+[span_1][e]        16        -        -        12:mod        -        -        -
+badZA_1        11        -        -        12:mod        -        -        -        -
+AkAra_1        12        -        -        13:r6        -        -        -        -
+piMda_1        13        -        -        15:k2        -        -        -        -
+pqWvI        14        ne        -        15:rask2        -        -        -        -
+takarA_1-yA_1        15        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

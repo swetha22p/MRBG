@@ -1,0 +1,14 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0357a>
+#पार्थिव ग्रहों के छोटे होने से इनकी गुरुत्वाकर्षण शक्ति भी कम रही ।
+pArWiva_1        1        -        -        2:mod        -        -        -        -
+graha_1        2        -        pl        10:k2        -        -        -        -
+CotA_1        10        -        -        3:krvn        -        -        -        -
+ho_1        3        -        -        8:rh        -        -        -        -
+$wyax        4        -        -        9:r6        2:coref        proximal        -        -
+guruwvAkarRaNa_1        5        -        -        -        -        -        -        9:mod
+Sakwi_1        6        -        -        -        -        BI_2        -        9:head
+[nc_1]        9        -        -        8:k1        -        -        -        -
+kama_1        7        -        -        8:krvn        -        -        -        -
+raha_1-yA_1        8        -        -        0:main        -        -        -        -        
+%affirmative
+</sent_id>

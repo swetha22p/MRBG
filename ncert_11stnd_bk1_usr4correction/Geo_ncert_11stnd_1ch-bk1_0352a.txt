@@ -1,0 +1,21 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0352a>
+#पार्थिव ग्रह जनक तारे के बहुत समीप बनें जहाँ अत्यधिक तापमान के कारण गैसें संघनित नहीं हो पाई ।
+##पार्थिव ग्रह जनक तारे के बहुत समीप बने जहाँ अत्यधिक तापमान के कारण गैसें संघनित नहीं हो पाई ।
+pArWiva_1        1        -        -        2:mod        -        -        -        -
+graha_1        2        -        -        7:k1        -        -        -        -
+janaka_1        3        -        -        -        -        -        -        16:mod
+wArA_1        4        -        -        -        -        -        -        16:head
+[nc_1]        16        -        -        7:k7        -        -        -        -
+bahuwa_1        5        -        -        6:quant        -        -        -        -
+samIpa_1        6        -        -        7:k7        -        -        -        -
+bana_1-yA_1        7        -        -        0:main        -        -        -        -
+$yax        8        -        -        12:k7p        6:coref        -        -        -
+awyaXika_1        9        -        -        10:mod        -        -        -        -
+wApamAna_1        10        -        -        12:rh        -        -        -        -
+gEsa_1        11        -        pl        12:k1        -        -        -        -
+saMGaniwa_1        14        -        -        -        -        -        -        12:kriyAmUla
+ho_1-yA_1        15        -        -        -        -        [shade:pA_1]        -        12:verbalizer
+[cp_1]        12        -        -        7:rcloc        -        -        -        -
+nahIM_1        13        -        -        12:neg        -        -        -        -
+%negative
+</sent_id>

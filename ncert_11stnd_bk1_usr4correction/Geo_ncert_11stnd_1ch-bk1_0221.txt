@@ -1,0 +1,24 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0221>
+#मानव ने ऐसी तकनीकी विकसित की है जो सीमित क्षेत्र में जलवायु को आपरिवर्तित कर देती है, जैसे- वातानुकूलक, वायु शीतक इत्यादि ।
+mAnava_1        1        anim        -        4:k1        -        -        -        -
+$wyax        2        -        -        17:dem        -        proximal        -        -
+prakAra_1        17        -        -        4:krvn        -        -        -        -
+wakanIkI_1        3        -        -        4:k2        -        -        -        -
+vikasiwa_1        13        -        -        -        -        -        -        4:kriyAmUla
+kara_1-yA_hE_1        14        -        -        -        -        -        -        4:verbalizer
+[cp_1]        4        -        -        0:main        -        -        -        -
+$yax        5        -        -        9:k1        13:coref        -        -        -
+sImiwa_1        6        -        -        7:mod        -        -        -        -
+kRewra_1        7        -        -        9:k7p        -        -        -        -
+jalavAyu_1        8        -        -        9:k2        -        -        -        -
+Aparivarwiwa_1        15        -        -        -        -        -        -        9:kriyAmUla
+kara_1-wA_hE_1        16        -        -        -        -        [shade:xe_1]        -        9:verbalizer
+[cp_2]        9        -        -        3:rcelab        -        -        -        -
+vAwAnukUlaka_1        10        -        -        -        -        -        -        20:op1
+vAyu_1        11        -        -        -        -        -        -        18:mod
+SIwaka_1        12        -        -        -        -        iwyAxi        -        18:head
+[nc_1]        18        -        -        -        -        -        -        20:op2
+iwyAxi_1        19        -        -        -        -        -        -        20:op3
+[conj_1]        20        -        -        3:re        -        -        -        -
+%affirmative
+</sent_id>

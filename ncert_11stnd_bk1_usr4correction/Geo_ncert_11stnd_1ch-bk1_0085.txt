@@ -1,0 +1,15 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0085>
+#भूगोल एक संश्लेषणात्मक विषय है जो क्षेत्रीय संश्लेषण का प्रयास करता है ।
+BUgola_1        1        -        -        5:k1        -        -        -        -
+eka_2        2        -        -        4:quant        -        -        -        -
+saMSleRaNAwmaka_1        3        -        -        4:mod        -        -        -        -
+viRaya_1        4        -        -        5:k1s        -        -        -        -
+hE_1-pres        5        -        -        0:main        -        -        -        -
+$yax        6        -        -        9:k1        1:coref        -        -        -
+kRewrIya_1        7        -        -        8:mod        -        -        -        -
+saMSleRaNa_1        8        -        -        9:k2        -        -        -        -
+prayAsa_1        10        -        -        -        -        -        -        9:kriyAmUla
+kara_1-wA_hE_1        11        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        5:rcelab        -        -        -        -
+%affirmative
+</sent_id>

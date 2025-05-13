@@ -1,0 +1,21 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0273>
+#आप भारत में वन संरक्षण का ऐतिहासिक विवरण राजस्थान एवं उत्तरांचल में 'चिपको आंदोलन' पर प्रकाश डालते हुए प्रस्तुत कीजिए ।
+$addressee        1        -        -        11:k1        -        respect        -        -
+BArawa        2        place        -        11:k7p        -        -        -        -
+vana_1        3        -        -        -        -        -        -        9:mod
+saMrakRaNa_1        4        -        -        -        -        -        -        9:head
+[nc_1]        9        -        -        6:r6        -        -        -        -
+EwihAsika_1        5        -        -        6:mod        -        -        -        -
+vivaraNa_1        6        -        -        11:k2        -        -        -        -
+rAjasWAna        7        place        -        -        -        -        -        18:op1
+uwwarAMcala        8        place        -        -        -        -        -        18:op2
+cipako+AMxolana        14        ne        -        10:k7        -        -        -        -
+prakASa_1        12        -        -        -        -        -        -        10:kriyAmUla
+dAla_1        13        -        -        -        -        -        -        10:verbalizer
+[cp_1]        10        -        -        11:rsk        -        -        -        -
+praswuwa_2        16        -        -        -        -        -        -        11:mod
+kara_1-o_1        17        -        -        -        -        -        -        11:head
+[cp_2]        11        -        -        0:main        -        -        -        -
+[conj_1]        18        -        -        10:k7p        -        -        -        -
+%affirmative
+</sent_id>

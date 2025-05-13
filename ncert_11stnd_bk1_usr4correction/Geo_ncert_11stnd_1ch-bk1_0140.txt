@@ -1,0 +1,16 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0140>
+#अर्थशास्त्र अर्थव्यवस्था की मूल विशेषताओं, जैसे उत्पादन, विवरण, विनिमय एवं उपभोग का विवेचन करता है ।
+arWaSAswra_1        1        -        -        10:k1        -        -        -        -
+arWavyavasWA_1        2        -        -        4:r6        -        -        -        -
+mUla_1        3        -        -        4:mod        -        -        -        -
+viSeRawA_1        4        -        pl        10:k2        -        -        -        -
+uwpAxana_1        5        -        -        -        -        -        -        12:op1
+vivaraNa_1        6        -        -        -        -        -        -        12:op2
+vinimaya_1        7        -        -        -        -        -        -        12:op3
+upaBoga_1        8        -        -        -        -        -        -        12:op4
+vivecana_1        9        -        -        -        -        -        -        6:kriyAmUla
+kara_1-wA_hE_1        10        -        -        -        -        -        -        6:verbalizer
+[cp_1]        11        -        -        0:main        -        -        -        -
+[conj_1]        12        -        -        4:re        -        -        -        -
+%affirmative
+</sent_id>

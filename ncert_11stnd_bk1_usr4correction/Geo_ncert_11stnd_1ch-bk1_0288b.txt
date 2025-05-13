@@ -1,0 +1,12 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0288b>
+#कि ब्रह्मांड में एक अन्य भ्रमणशील तारा सूर्य के नजदीक से गुजरा ।
+brahmAMda_1        1        -        -        8:k7p        -        -        -        -
+eka_2        2        -        -        6:card        -        -        -        -
+anya_1        3        -        -        5:mod        -        -        -        -
+BramaNaSIla_1        4        -        -        5:mod        -        -        -        -
+wArA_1        5        -        -        8:k1        -        -        -        -
+sUrya_1        6        -        -        7:r6        -        -        -        -
+najaxIka_1        7        -        -        8:rp        -        -        -        -
+gujara_1-yA_1        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

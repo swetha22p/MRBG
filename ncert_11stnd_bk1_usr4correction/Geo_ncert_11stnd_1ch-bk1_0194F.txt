@@ -1,0 +1,11 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0194F>
+#वृहद्, मध्यम, लघुस्तरीय प्रादेशिक/क्षेत्रीय अध्ययन ।
+vqhax_1        1        -        -        6:mod        -        -        -        -
+maXyama_1        2        -        -        6:mod        -        -        -        -
+laGuswarIya_1        3        -        -        4:mod        -        -        -        -
+prAxeSika_1        4        -        -        -        -        -        -        7:op1
+kRewrIya_1        5        -        -        -        -        -        -        7:op1
+aXyayana_1        6        -        -        0:main        -        -        -        -
+[conj_1]        7        -        -        6:mod        -        -        -        -
+%affirmative
+</sent_id>

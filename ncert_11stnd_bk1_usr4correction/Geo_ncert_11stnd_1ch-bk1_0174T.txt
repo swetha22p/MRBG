@@ -1,0 +1,7 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0174T>
+#भू-आकृति विज्ञान।
+BU+Akqwi_1        1        -        -        -        -        -        -        4:mod
+vijFAna_1        3        -        -        -        -        -        -        4:head
+[nc_1]        4        -        -        0:main        -        -        -        -
+%term
+</sent_id>

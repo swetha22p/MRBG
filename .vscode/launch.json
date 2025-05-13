@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python3: Debug",
+      "type": "debugpy",  // <-- Fix: Use "python" instead of "debugpy"
+      "request": "launch",
+      "program": "/Users/swetha/Documents/LTRC/LTRC_PROJECTS/hindi_generator_mask/hindi_gen.py",
+      "cwd": "/Users/swetha/Documents/LTRC/LTRC_PROJECTS/hindi_generator_mask",
+      "console": "integratedTerminal"
+    }
+  ]
+}

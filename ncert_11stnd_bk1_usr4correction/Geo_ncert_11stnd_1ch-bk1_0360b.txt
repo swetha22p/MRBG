@@ -1,0 +1,13 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0360b>
+#कि प्रारंभ में पृथ्वी व चंद्रमा तेजी से घूमते एक ही पिंड थे ।
+prAraMBa_1        1        -        -        8:k7t        -        -        -        -
+pqWvI_1        2        -        -        -        -        -        -        9:op1
+caMxramA_1        3        -        -        -        -        -        -        9:op2
+weja_1        4        -        -        5:krvn        -        -        -        -
+GUma_1        5        -        -        8:rbks        -        -        -        -
+eka_2        6        -        -        7:card        -        hI_6        -        -
+piMda_1        7        -        -        8:k1s        -        -        -        -
+hE_1-past        8        -        -        0:main        -        -        -        -
+[conj_1]        9        -        -        8:k1        -        -        -        -
+%affirmative
+</sent_id>

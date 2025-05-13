@@ -1,0 +1,8 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0293>
+#ये तर्क “'द्वैतारक सिद्धांत” के नाम से जाने जाते हैं ।
+$wyax        1        -        -        2:dem        -        proximal        -        -
+warka_1        2        -        -        3:k2        -        -        -        -
+xvEwAraka+sixXAMwa        3        ne        -        2:rs        -        -        -        -
+jAna_1-yA_jA_wA_hE_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,20 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0083>
+#यह मानव तथा उसके भौतिक वातावरण के मध्य गत्यात्मक अंतर्प्रक्रिया से उपजे तथ्यों के बीच साहचर्य एवं अंतर्सबंध का विश्लेषण करता है ।
+$wyax        1        -        -        14:k1        -        proximal        -        -
+mAnava_1        2        anim        -        -        -        -        -        17:op1
+$wyax        3        -        -        5:r6        1:coref        distal        -        -
+BOwika_1        4        -        -        5:mod        -        -        -        -
+vAwAvaraNa_1        5        -        -        -        -        -        -        17:op2
+gawyAwmaka_1        7        -        -        8:mod        -        -        -        -
+aMwarprakriyA_1        8        -        -        9:rh        -        -        -        -
+upaja_1        9        -        -        10:rbks        -        -        -        -
+waWya_1        10        -        pl        14:k7        -        -        -        -
+sAhacarya_1        12        -        -        -        -        -        -        18:op1
+aMwarsabaMXa_1        13        -        -        -        -        -        -        18:op2
+viSleRaNa_1        15        -        -        -        -        -        -        14:kriyAmUla
+kara_1-wA_hE_1        16        -        -        -        -        -        -        14:verbalizer
+[cp_1]        14        -        -        0:main        -        -        -        -
+[conj_1]        17        -        -        8:r6        -        -        -        -
+[conj_2]        18        -        -        14:k2        -        -        -        -
+%affirmative
+</sent_id>

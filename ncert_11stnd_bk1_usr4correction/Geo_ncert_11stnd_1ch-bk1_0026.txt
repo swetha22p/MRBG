@@ -1,0 +1,19 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0026>
+#यहाँ पर्वत, पहाडियाँ, घाटियाँ, मैदान, पठार, समुद्र, झील, रेगिस्तान, वन एवं उजाड क्षेत्र मिलते हैं ।
+$yax        1        -        -        12:k7p        -        -        -        -
+parvawa_1        2        -        -        -        -        -        -        15:op1
+pahAdZI_1        3        -        pl        -        -        -        -        15:op2
+GAtI_1        4        -        pl        -        -        -        -        15:op3
+mExAna_1        5        -        -        -        -        -        -        15:op4
+paTAra_1        6        -        -        -        -        -        -        15:op5
+samuxra_1        7        -        -        -        -        -        -        15:op6
+JIla_1        8        -        -        -        -        -        -        15:op7
+regiswAna_1        9        -        -        -        -        -        -        15:op8
+vana_1        10        -        -        -        -        -        -        15:op9
+ujAdZa_1        13        -        -        -        -        -        -        11:mod
+kRewra_1        14        -        -        -        -        -        -        11:head
+[nc_1]        11        -        -        -        -        -        -        15:op10
+mila_1-wA_hE_1        12        -        -        0:main        -        -        -        -
+[conj_1]        15        -        -        12:k1        -        -        -        -
+%affirmative
+</sent_id>

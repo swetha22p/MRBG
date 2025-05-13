@@ -1,0 +1,13 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0204>
+#भौगोलिक सूचना तंत्र ने ज्ञान के नये परिदृश्य को खोला है ।
+BOgolika_1        1        -        -        -        -        -        -        2:mod
+sUcanA_1        8        -        -        -        -        -        -        2:head
+waMwra_1        9        -        -        -        -        -        -        10:head        
+[nc_1]        2        -        -                -        -        -        10:mod
+[nc_2]        10        -        -        7:k1        -        -        -        -
+jFAna_1        4        -        -        6:r6        -        -        -        -
+nayA_1        5        -        -        6:mod        -        -        -        -
+parixqSya_1        6        -        -        7:k2        -        -        -        -
+Kola_1-yA_hE_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

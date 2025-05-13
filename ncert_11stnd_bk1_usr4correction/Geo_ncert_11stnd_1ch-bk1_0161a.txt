@@ -1,0 +1,23 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0161a>
+#फिर प्रकारात्मक वर्गीकरण, जैसे विषुवतरेखीय सदाबहार वन, नरम लकडीवाले कोणधारी वन अथवा मानसूनी वन इत्यादि की पहचान करना होगा ।
+##फिर प्रकारात्मक वर्गीकरण, जैसे विषुवतरेखीय सदाबहार वन, नरम लकडीवाले कोणधारी वन अथवा मानसूनी वन इत्यादि की पहचान करनी होगी ।
+prakArAwmaka_1        2        -        -        3:mod        -        -        -        -
+vargIkaraNa_1        3        -        -        14:k2        -        -        -        -
+viRuvawareKIya_1        4        -        -        -        -        -        -        1:mod
+saxAbahAra_1        5        -        -        -        -        -        -        1:head
+vana_1        6        -        -        -        iwyAxi        -        -        19:head
+[nc_1]        1        -        -        -        -        -        -        19:mod
+[nc_2]        19        -        -        -        -        -        -        17:op1
+narama_1        7        -        -        8:mod        -        -        -        -
+lakadZI_1        8        -        mawup         10:mod        -        -        -        -
+koNaXArI_1        9        -        -        10:mod        -        -        -        -
+vana_1        10        -        -        -        -        -        -        17:op2
+mAnasUnI_1        11        -        -        12:mod        -        -        -        -
+vana_1        12        -        -        -        -        -        -        17:op3
+Axi_1        13        -        -        -        -        distal        -        17:op4
+pahacAna_1        15        -        -        -        -        -        -        14:kriyAmUla
+kara_1-nA_hogA_1        16        -        -        -        -        -        -        14:verbalizer
+[cp_1]        14        -        -        -        -        -        -        17:op1
+[conj_1]        17        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,18 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0341b>[d]
+#उसके ध्वस्त होने व क्रोड के बनने की शुरूआत लगभग 5 अरब से 5.6 अरब वर्षों पहले हुई।
+$wyax        11        -        -        12:r6        Geo_ncert_11stnd_1ch-bk1_0341.1:coref        distal        -        -
+Xvaswa_1        12        -        -        -        -        -        -        14:kiyAmUla
+ho_1        13        -        -        -        -        -        -        14:verblizer
+[cp_1]        14        -        -        -        -        -        -        15:op1
+kroda_1        1        -        -        2:k1        -        -        -        -
+bana_1        2        -        -        -        -        -        -        15:op2
+SurUAwa_1        3        -        -        9:k1        -        -        -        -
+5000000000        4        -        -        -        -        -        -        10:before
+5600000000        5        -        -        -        -        -        -        10:start
+varRa_1        7        -        pl        16:rkl        -        -        -        -
+[span_1]        10        -        -        9:k7t        -        lagaBaga_1        -        -
+pahalA_1        8        -        -        9:k7t        -        -        -        -
+ho_1-yA        9        -        -        0:main        -        -        -        -
+[conj_1]        15        -        -        3:r6        -        -        -        -
+%affirmative
+</sent_id>

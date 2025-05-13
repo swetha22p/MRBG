@@ -1,0 +1,17 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0394>
+#यद्यपि लगभग 250 से 300 करोड साल पहले प्रकाश संश्लेषण प्रक्रिया विकसित हुई ।
+250        1        numex        -        7:card        -        lagaBaga        -        13:start
+30000000000        2        numex        -        3:mod        -        -        -        13:end
+sAla_1        3        -        -        13:mod        -        -        -        -
+[span_1]        13        -        -        3:card        -        -        -        -        
+pahalA_1        4        -        -        7:k7t        -        -        -        -
+prakASa_1        5        -        -        -        -        -        -        6:mod
+saMSleRaNa_1        10        -        -        -        -        -        -        6:head
+prakriyA_1        11        -        -        -        -        -        -        12:head
+[nc_1]        6        -        -        -        -        -        -        12:mod
+[nc_2]        12        -        -        7:k1        -        -        -        -
+vikasiwa_1        8        -        -        -        -        -        -        7:kriyAmUla
+ho_1-yA_1        9        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0395.6:viroXi_xyowaka        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,17 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0032>
+#सर्वप्रथम भूगोल शब्द का प्रयोग इरेटॉस्थेनीज, एक ग्रीक विद्वान (276-194 ईपू) ने किया ।
+sarvapraWama_1        1        -        -        4:k7t        -        -        -        -
+BUgola_1        2        -        -        4:k2        -        -        -        -
+Sabxa_1        3        -        -        2:rs        -        -        -        -
+prayoga_1        11        -        -        -        -        -        -        4:kriyAmUla
+kara_1-yA_1        12        -        -        -        -        -        -        4:verbalizer
+[cp_1]        4        -        -        0:main        -        -        -        -
+iretoYsWenIja        13        per/male        -        4:k1        -        -        -        -
+eka_2        5        -        -        7:quant        -        -        -        -
+^grIka_1        6        -        -        7:mod        -        -        -        - 
+vixvAna_1        7        -        -        13:rs        -        -        -        -
+276        8        BC        -        -        -        -        -        10:start
+194        9        BC        -        -        -        -        -        10:end
+[span_1]        10        -        -        13:mod        -        -        -        -
+%affirmative
+</sent_id>

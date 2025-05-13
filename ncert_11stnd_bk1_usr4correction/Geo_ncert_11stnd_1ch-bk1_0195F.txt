@@ -1,0 +1,18 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0195F>
+#ग्रामीण/इलाका नियोजन तथा शहर एवं नगर नियोजन सहित प्रादेशिक नियोजन ।
+grAmINa_1        1        -        -        2:mod        -        -        -        -
+niyojana_1        2        -        -        -        -        -        -        11:op1
+ilAkA_1        3        -        -        -        -        -        -        5:mod
+niyojana_1        4        -        -        -        -        -        -        5:head
+[nc_2]        5        -        -        -        -        -        -        11:op2
+Sahara_1        6        -        -        -        -        -        -        14:mod
+niyojana_1        15        -        -        -        -        -        -        14:head
+[nc_3]        14        -        -        -        -        -        -        11:op3
+nagara_1        9        -        -        -        -        -        -        13:mod
+niyojana_1        10        -        -        -        -        -        -        13:head        
+[nc_1]        13        -        -        -        -        -        -        11:op14
+prAxeSika_1        7        -        -        8:mod        -        -        -        -
+niyojana_1        8        -        -        -        -        -        -        11:op5
+[conj_1]        11        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

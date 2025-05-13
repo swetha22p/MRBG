@@ -1,0 +1,17 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0286>
+#1796 ई° में गणितज्ञ लाप्लेस ने इसका संशोधन प्रस्तुत किया जो नीहारिका परिकल्पना के नाम से जाना जाता है ।
+1796        1        yoc        -        2:card        -        -        -        -
+AD        2        -        -        7:k7t        -        -        -        -
+gaNiwajFa_1        3        anim        -        4:mod        -        -        -        -
+lAplesa        4        per/male        -        7:k1        -        -        -        -
+$wyax        5        -        -        6:r6        Geo_ncert_11stnd_1ch-bk1_0285.5:coref        proximal        -        -
+saMSoXana_1        6        -        -        7:k2        -        -        -        -
+praswuwa_1        13        -        -        -        -        -        -        7:kriyAmUla
+kara_1-yA_1        14        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        0:main        -        -        -        -
+$yax        8        -        -        12:k1        6:coref        -        -        -
+nIhArikA+parikalpanA        9        ne        -        11:r6        -        -        -        -
+nAma_1        11        -        -        12:k3        -        -        -        -
+jAna_1-yA_jA_wA_hE_1        12        -        -        7:rcelab        -        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,13 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0054>
+#प्रकृति मानव जीवन के विभिन्न पक्षों को प्रभावित करती है ।
+prakqwi_1        1        -        -        5:k1        -        -        -        -
+mAnava_1        8        -        -        -        -        -        -        2:mod
+jIvana_1        9        -        -        -        -        -        -        2:head
+[nc_1]        2        -        -        4:r6        -        -        -        -
+viBinna_1        3        -        -        4:mod        -        -        -        -
+pakRa_1        4        -        pl        5:k2        -        -        -        -
+praBAviwa_1        6        -        -        -        -        -        -        5:kriyAmUla
+kara_1-wA_hE_1        7        -        -        -        -        -        -        5:verbalizer
+[cp_1]        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

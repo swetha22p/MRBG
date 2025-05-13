@@ -1,0 +1,20 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0310>
+#आरम्भ में वे सभी पदार्थ,जिनसे ब्रह्मांड बना है, अति छोटे गोलक (एकाकी परमाणु) के रूप में एक ही स्थान पर स्थित थे ।
+AramBa_1        1        -        -        16:k7t        -        -        -        -
+$wyax        2        -        -        4:dem        -        distal        -        -
+saBI_1        3        -        -        4:quant        -        -        -        -
+paxArWa_1        4        -        -        16:k1        -        -        -        -
+$yax        5        -        -        7:k5prk        4:coref        -        -        -
+brahmAMda_1        6        -        -        7:k1        -        -        -        -
+bana_1-yA_hE_1        7        -        -        4:rcelab        -        -        -        -
+awi_1        8        -        -        9:intf        -        -        -        -
+CotA_1        9        -        -        10:mod        -        -        -        -
+golaka_1        10        -        -        16:k1        -        -        -        -
+ekakI_1        11        -        -        12:mod        -        -        -        -
+paramANu_1        12        -        -        10:rs        -        -        -        -
+eka_2        13        -        -        14:card        -        hI_2        -        -
+sWAna_1        14        -        -        16:k7p        -        -        -        -
+sWiwa_1        15        -        -        16:k1s        -        -        -        -
+hE_1-past        16        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

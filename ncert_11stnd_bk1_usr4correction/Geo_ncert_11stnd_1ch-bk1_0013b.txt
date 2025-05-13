@@ -1,0 +1,21 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0013b>
+#तथा हमने प्राकृतिक संसाधनों, यथा भूमि, मृदा, जल का उपयोग करते हुए अपना आहार उत्पादन प्रारंभ किया ।
+$speaker        1        anim        pl        10:k1        -        -        -        -
+prAkqwika_1        2        -        -        3:mod        -        -        -        -
+saMsAXana_1        3        -        pl        7:k2        -        -        -        -
+BUmi_1        5        -        -        -        -        -        -        19:op1
+mqxA_1        15        -        -        -        -        -        -        19:op2
+jala_1        16        -        -        -        -        -        -        19:op3
+upayoga_1        11        -        -        -        -        -        -        7:kriyAmUla
+kara_1        12        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        10:rblsk        Geo_ncert_11stnd_1ch-bk1_0013a.5:samuccaya        -        -        -
+apanA        8        -        -        17:r6        1:coref        -        -        -
+AhAra_1        17        -        -        -        -        -        -        9:mod
+uwpAxana_1        18        -        -        -        -        -        -        9:head
+[nc_1]        9        -        -        10:k2        -        -        -        -
+prAraMBa_1        13        -        -        -        -        -        -        10:kriyAmUla
+kara_1-yA_1        14        -        -        -        -        -        -        10:verbalizer
+[cp_2]        10        -        -        0:main        -        -        -        -
+[conj_1]        19        -        -        7:r6        -        -        -        -
+%affirmative
+</sent_id>

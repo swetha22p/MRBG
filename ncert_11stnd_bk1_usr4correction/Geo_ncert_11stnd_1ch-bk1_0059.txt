@@ -1,0 +1,20 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0059>
+#तकनीकी के क्रमश: विकास के साथ मानव अपने ऊपर भौतिक पर्यावरण के द्वारा कसे हुए बंधन को ढीला करने में सक्षम हो गया है ।
+wakanIkI_1        1        -        -        3:r6        -        -        -        -
+kramaSah_1        2        -        -        3:krvn        -        -        -        -
+vikAsa_1        3        -        -        12:rask1        -        -        -        -
+mAnava_1        4        anim        -        12:k1        -        -        -        -
+apanA        5        -        -        6:r6        -        -        -        -
+Upara_1        6        -        -        12:k7p        -        -        -        -
+BOwika_1        7        -        -        8:mod        -        -        -        -
+paryAvaraNa_1        8        -        -        9:k1        -        -        -        -
+kasa_1        9        -        -        10:rvks        -        -        -        -
+baMXana_1        10        -        -        11:k2        -        -        -        -
+DIlA_1        13        -        -        -        -        -        -        11:kriyAmUla
+kara_1        14        -        -        -        -        -        -        11:verbalizer
+[cp_1]        11        -        -        12:k7        -        -        -        -
+sakRama_1        15        -        -        -        -        -        -        12:kriyAmUla
+ho_1-yA_hE_1        16        -        -        -        -        [shade:jA_1]        -        12:verbalizer
+[cp_2]        12        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

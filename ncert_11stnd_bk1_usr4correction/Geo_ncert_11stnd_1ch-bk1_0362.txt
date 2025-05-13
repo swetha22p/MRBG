@@ -1,0 +1,19 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0362>
+#उनके अनुसार चंद्रमा का निमार्ण उसी पदार्थ से हुआ है जहाँ आज प्रशांत महासागर एक गर्त के रूप में मौजूद है ।
+$wyax        1        -        -        6:k7a        Geo_ncert_11stnd_1ch-bk1_0360a.4:coref        distal        -        -
+caMxramA_1        2        -        -        3:k2        -        -        -        -
+nirmANa_1        3        -        -        6:k1        -        -        -        -
+$wyax        4        -        -        5:dem        -        distal        -        -
+paxArWa_1        5        -        -        6:rh        -        -        -        -
+ho_1-yA_hE_1        6        -        -        0:main        -        -        -        -
+$yax        7        -        -        14:k7p        5:coref        -        -        -
+Aja_1        8        -        -        14:k7t        -        -        -        -
+praSAMwa        9        ne        -        14:k1        -        -        -        -
+mahAsAgara_1        10        -        -        9:rs        -        -        -        -
+eka_2        11        -        -        12:card        -        -        -        -
+garwa_1        12        -        -        14:k7        -        -        -        -
+rUpa_1        15        -        -        14:krvn        -        -        -        -
+mOjUxa_1        13        -        -        14:k1s        -        -        -        -
+hE_1-pres        14        -        -        6:rcloc        -        -        -        -
+%affirmative
+</sent_id>

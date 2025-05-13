@@ -1,0 +1,14 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0291>
+#पहले सर जेम्स जींस और बाद में सर हँरोल्ड जेफरी ने इस मत का समर्थन किया ।
+pahalA_1        1        -        -        10:k7t        -        -        -        -
+sara+jemsa+jIMsa        3        per/male        -        -        -        -        -        15:op1
+bAxa_1        4        -        -        10:k7t        -        -        -        -
+sara+hazrolda+jeParI        5        per/male        -        -        -        -        -        15:op2
+$wyax        8        -        -        9:dem        -        proximal        -        -
+mawa_1        9        -        -        10:k2        -        -        -        -
+samarWana_1        11        -        -        -        -        -        -        10:kriyAmUla
+kara_1-yA_1        12        -        -        -        -        -        -        10:verbalizer
+[cp_1]        10        -        -        0:main        -        -        -        -
+[conj_1]        15        -        -        10:k1        -        -        -        -
+%affirmative
+</sent_id>

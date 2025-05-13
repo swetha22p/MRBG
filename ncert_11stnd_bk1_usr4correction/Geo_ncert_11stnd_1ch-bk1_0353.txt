@@ -1,0 +1,11 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0353>
+#जोवियन ग्रहों की रचना अपेक्षाकृत अधिक दूरी पर हुई ।
+^joviyana        1        ne        -        2:mod        -        -        -        -
+graha_1        2        -        pl        3:r6        -        -        -        -
+racanA_1        3        -        -        7:k1        -        -        -        -
+apekRAkqwa_1        4        -        -        5:intf        -        -        -        -
+aXika_1        5        -        -        6:quant        -        -        -        -
+xUrI_1        6        -        -        7:k7        -        -        -        -
+ho_1-yA_1        7        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

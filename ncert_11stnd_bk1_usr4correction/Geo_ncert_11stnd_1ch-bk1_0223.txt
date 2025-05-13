@@ -1,0 +1,16 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0223>
+#भारत में मानसूनी वर्षा कृषि आवर्तन प्रणाली को गति प्रदान करती है ।
+BArawa        1        place        -        8:k7p        -        -        -        -
+mAnasUnI_1        2        -        -        3:mod        -        -        -        -
+varRA_1        3        -        -        8:k1        -        -        -        -
+kqRi_1        4        -        -        -        -        -        -        11:mod
+Avarwana_1        5        -        -        -        -        -        -        11:head
+praNAlI_1        6        -        -        -        -        -        -        12:head
+gawi_1        7        -        -        8:k2        -        -        -        -
+[nc_1]        11        -        -        -        -        -        -        12:mod
+[nc_2]        12        -        -        8:k2s        -        -        -        -
+praxAna_1        9        -        -        -        -        -        -        8:kriyAmUla
+kara_1-wA_hE_1        10        -        -        -        -        -        -        8:verbalizer
+[cp_1]        8        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

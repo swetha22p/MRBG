@@ -1,0 +1,14 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0383b>
+#और विभेदन के दौरान, पृथ्वी के अंदरूनी भाग से बहुत सी गैसें व जलवाष्प बाहर निकले ।
+viBexana_1        1        -        -        9:k7t        -        -        -        -
+pqWvI_1        2        -        -        4:r6        -        -        -        -
+aMxarUnI_1        3        -        -        4:mod        -        -        -        -
+Baga_1        4        -        -        9:k5        -        -        -        -
+bahuwa_1        5        -        -        6:intf        -        -        -        -
+gEsa_1        6        -        pl        -        -        -        -        10:op1
+jalavARpa_1        7        -        -        -        -        -        -        10:op2
+bAhara_1        8        -        -        9:k7p        -        -        -        -
+nikala_1-yA_1        9        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        9:k1        -        -        -        -
+%affirmative
+</sent_id>

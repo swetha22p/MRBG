@@ -1,0 +1,17 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0289>
+#इसके परिणाम स्वरूप तारे के गुरूत्वाकर्षण से सूर्य-सतह से सिगार के आकार का कुछ पदार्थ निकलकर अलग हो गया।
+wArA_1        14        -        -        3:r6        -        -        -        -
+gurUwvAkarRaNa_1        3        -        -        9:rh        -        -        -        -
+sUrya_1        15        -        -        -        -        -        -        4:mod
+sawaha_1        16        -        -        -        -        -        -        4:head
+[nc_1]        4        -        -        9:k5        -        -        -        -
+^sigAra_1        5        -        -        6:r6        -        -        -        -
+AkAra_1        6        -        -        8:r6        -        -        -        -
+kuCa_1        7        -        -        8:quant        -        -        -        -
+paxArWa_1        8        -        -        9:k1        -        -        -        -
+nikala_1        9        -        -        10:rpk        -        -        -        -
+alaga_1        11        -        -        -        -        -        -        10:kriyAmUla
+ho_1-yA_1        12        -        -        -        -        [shade:jA_1]        -        10:verbalizer
+[cp_1]        10        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0288b.8:pariNAma        -        -        -
+%affirmative
+</sent_id>

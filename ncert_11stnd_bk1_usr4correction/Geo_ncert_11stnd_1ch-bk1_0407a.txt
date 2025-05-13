@@ -1,0 +1,13 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0407a>
+#क्या आपके अनुमान के अनुसार पृथ्वी क्रिकेट की गेंद की तरह एक ठोस गेंद है ?
+$addressee        2        -        -        3:r6        -        respect        -        -
+anumAna_1        3        -        -        10:k7a        -        -        -        -
+pqWvI_1        4        -        -        10:k1        -        -        -        -
+kriketa        5        -        -        9:r6        -        -        -        -
+geMxa_1        6        -        -        9:ru        -        -        -        -
+eka_1        7        -        -        9:card        -        -        -        -
+Tosa_1        8        -        -        9:mod        -        -        -        -
+geMxa_1        9        -        -        10:k1s        -        -        -        -
+hE_1-pres        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

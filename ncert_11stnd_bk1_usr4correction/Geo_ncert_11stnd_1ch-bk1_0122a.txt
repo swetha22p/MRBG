@@ -1,0 +1,23 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0122a>
+#इस प्रकार भू-आकृति विज्ञान, जलवायु विज्ञान, सामुद्रिक विज्ञान, मृदा भूगोल का प्राकृतिक विज्ञान से निकट का संबंध है ।
+$wyax        1        -        -        2:dem        -        proximal        -        -
+prakAra_1        2        -        -        16:vkvn        -        -        -        -
+BU+Akqwi_1        3        -        -        -        -        -        -        19:mod
+vijFAna_1        5        -        -        -        -        -        -        19:head
+[nc_1]        19        -        -        -        -        -        -        21:op1
+jalavAyu_1        6        -        -        -        -        -        -        20:mod
+vijFAna_1        7        -        -        -        -        -        -        20:head
+[nc_2]        20        -        -        -        -        -        -        21:op2
+sAmuxrika_1        8        -        -        9:mod        -        -        -        -
+vijFAna_1        9        -        -        -        -        -        -        21:op3
+mqxA_1        17        -        -        -        -        -        -        10:mod
+BUgola_1        18        -        -        -        -        -        -        10:head
+[nc_3]        10        -        -        -        -        -        -        21:op4
+prAkqwika_1        12        -        -        13:mod        -        -        -        -
+vijFAna_1        13        -        -        16:k1        -        -        -        -        
+nikata_1        14        -        -        15:mod        -        -        -        -
+saMbaMXa_1        15        -        -        16:k1s        -        -        -        -
+hE_1-pres        16        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0121.11:isa_prakAra        -        -        -
+[conj_1]        21        -        -        16:k1as        -        -        -        -
+%affirmative
+</sent_id>

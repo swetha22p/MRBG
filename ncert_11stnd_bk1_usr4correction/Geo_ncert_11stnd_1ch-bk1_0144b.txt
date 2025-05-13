@@ -1,0 +1,12 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0144b>
+#कि भूगोल प्राकृतिक एवं सामाजिक विज्ञानों से घनिष्ठता से जुडा हुआ है ।
+BUgola_1        1        -        -        7:k1        -        -        -        -
+prAkqwika_1        2        -        -        -        -        -        -        8:op1
+sAmAjika_1        3        -        -        -        -        -        -        8:op2
+vijFAna_1        4        -        pl        6:k1as        -        -        -        -
+GaniRTawA_1        5        -        -        6:krvn        -        -        -        -
+judZa_1        6        -        kqw        7:k1s        -        -        -        -
+hE_1-pres        7        -        -        0:main        -        -        -        -
+[conj_1]        8        -        -        4:mod        -        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,21 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0012>
+#आदिम समाज अपने भरण-पोषण के लिए प्राकृतिक निर्वाह-संसाधनों, जैसे पशुओं एवं खाद्य पौधों पर आश्रित था ।
+Axima_1        1        -        -        2:mod        -        -        -        -
+samAja_1        2        -        -        14:k1        -        -        -        -
+apanA        4        -        -        3:r6        2:coref        -        -        -
+BaraNa_1        5        -        -        -        -        -        -        3:op1
+poRaNa_1        6        -        -        -        -        -        -        3:op2
+[nc_1]        3        -        -        14:rt        -        -        -        -
+prAkqwika_1        7        -        -        8:mod        -        -        -        -
+nirvAha_1        8        -        -        -        -        -        -        15:mod
+saMsAXana_1        9        -        pl        -        -        -        -        15:head
+[nc_2]        15        -        -        14:k7        -        -        -        -
+paSu_1        10        anim        pl        -        -        -        -        16:op1
+KAxya_1        11        -        -        -        -        -        -        17:mod
+pOXA_1        12        -        pl        -        -        -        -        17:head
+[nc_3]        17        -        -        -        -        -        -        16:op2
+[conj_1]        16        -        -        15:re        -        -        -        -
+ASriwa_1        13        -        -        14:k1s        -        -        -        -
+hE_1-past        14        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

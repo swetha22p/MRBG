@@ -1,0 +1,13 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0213a>
+#मिट्टियाँ मृदा-निर्माण प्रक्रिया के माध्यम से निर्मित होती हैं ।
+mittI_1        1        -        pl        5:k1        -        -        -        -
+mqxA_1        2        -        -        -        -        -        -        3:mod
+nirmANa_1        8        -        -        -        -        -        -        3:head
+prakriyA_1        9        -        -        -        -        -        -        4:head
+[nc_1]        3        -        -        -        -        -        -        4:mod
+[nc_2]        4        -        -        5:k3        -        -        -        -
+nirmiwa_1        6        -        -        -        -        -        -        5:kriyAmUla
+ho_1-wA_hE_1        7        -        -        -        -        -        -        5:verbalizer
+[cp_1]        5        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

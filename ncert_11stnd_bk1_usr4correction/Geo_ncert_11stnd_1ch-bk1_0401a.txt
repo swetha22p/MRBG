@@ -1,0 +1,13 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0401a>
+#यह समूहन ऐसा था जो अपने आपको दोहराता था .(पुनःबनने में सक्षम था) ।
+##यह समूहन ऐसा था जो अपने आपको दोहराता था।
+$wyax        1        -        -        2:dem        -        proximal        -        -
+samUhana_1        2        -        -        4:k1        -        -        -        -
+$wyax        3        -        -        12:dem        -        proximal        -        -
+prakAra_1        12        -        -        4:krvn        -        -        -        -
+hE_1-past        4        -        -        0:main        -        -        -        -
+$yax        5        -        -        11:k1        -        -        -        -
+Kuxa_1        6        -        -        11:k2        -        -        -        -
+xoharA_1-wA_WA_1        7        -        -        2:rcelab        -        -        -        -
+%affirmative
+</sent_id>

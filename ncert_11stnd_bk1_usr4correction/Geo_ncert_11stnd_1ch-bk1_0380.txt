@@ -1,0 +1,18 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0380>
+#अंत में वायुमंडल की संरचना को जैव मंडल के प्रकाश संश्लेषण प्रक्रिया ने संशोधित किया ।
+aMwa_1        1        -        -        9:k7t        -        -        -        -
+vAyumaMdala_1        2        -        -        3:r6        -        -        -        -
+saMracanA_1        3        -        -        9:k2        -        -        -        -
+jEva_1        12        -        -        -        -        -        -        4:mod
+maMdala_1        13        -        -        -        -        -        -        4:head
+[nc_1]        4        -        -        8:r6        -        -        -        -
+prakASa_1        6        -        pl        -        -        -        -        5:mod
+saMSleRaNa_1        7        -        -        -        -        -        -        5:head
+prakriyA_1        8        -        -        -        -        -        -        14:head
+[nc_2]        5        -        -        -        -        -        -        14:mod
+[nc_3]        14        -        -        9:k1        -        -        -        -
+saMSoXiwa_1        10        -        -        -        -        -        -        9:kriyAmUla
+kara_1-yA_1        11        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

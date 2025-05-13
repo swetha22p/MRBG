@@ -1,0 +1,16 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0220>
+#जलवायु का वनस्पति, सस्य प्रतिरूप, पशुपालन एवं उद्योगों आदि पर गंभीर प्रभाव पडता है ।
+jalavAyu_1        1        -        -        13:r6        -        -        -        -
+vanaspawi_1        9        -        -        -        -        -        -        13:op1
+sasya_1        3        -        -        -        -        -        -        2:mod
+prawirUpa_1        4        -        -        -        -        -        -        2:head
+[nc_1]        2        -        -        -        -        -        -        13:op2
+paSupAlana_1        5        -        -        -        -        -        -        13:op3
+uxyoga_1        6        -        pl        -        Axi        -        -        13:op4
+Axi_1        8        -        -        -        -        -        -        13:op5
+gaMBIra_1        7        -        -        11:mod        -        -        -        -
+praBAva_1        11        -        -        12:k1        -        -        -        -
+padZa_1-wA_hE_1        12        -        -        -        -        -        -        8:head
+[conj_1]        13        -        -        8:k7        -        -        -        -
+%affirmative
+</sent_id>

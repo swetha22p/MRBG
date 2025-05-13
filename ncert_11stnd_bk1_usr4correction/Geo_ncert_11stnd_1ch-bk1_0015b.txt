@@ -1,0 +1,24 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0015b>
+#कि प्राकृतिक संसाधन आधार, तकनीकी विकास, भौतिक वातावरण के साथ अनुकूलन एवं उसका परिष्करण, सामाजिक संगठन तथा सांस्कृतिक विकास में विभिन्नता पायी जाती है ।
+prAkqwika_1        1        -        -        -        -        -        -        2:mod
+saMsAXana_1                15        -        -        -        -        -        -        2:head
+AXAra_1        16        -        -        -        -        -        -        21:head
+[nc_1]        2        -        -        -        -        -        -        21:mod
+[nc_2]        21        -        -        -        -        -        -        20:op1
+wakanIkI_1        3        -        -        17:mod        -        -        -        -
+vikAsa_1        17        -        -        -        -        -        -        20:op2
+BOwika_1        5        -        -        18:mod        -        -        -        -
+vAwAvaraNa_1        18        -        -        6:k2        -        -        -        -
+anukUlana_1        6        -        -        -        -        -        -        19:op1
+$wyax        7        -        -        8:r6        18:coref        distal        -        -
+pariRkaraNa_1        8        -        -        -        -        -        -        19:op2
+sAmAjika_1        9        -        -        10:mod        -        -        -        -
+saMgaTana_1        10        -        -        -        -        -        -        20:op4
+sAMskqwika_1        11        -        -        12:mod        -        -        -        -
+vikAsa_1        12        -        -        -        -        -        -        20:op5
+viBinnawA_1        13        -        -        14:k2        -        -        -        -
+pA_1-yA_jA_wA_hE_1        14        -        -        0:main        -        -        -        -
+[conj_1]        19        -        -        -        -        -        -        20:op3
+[conj_2]        20        -        -        14:k7        -        -        -        -
+%pass_affirmative
+</sent_id>

@@ -1,0 +1,11 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0017b>
+#फिर भी समय के साथ होने वाले परिवर्तनों को समझने में रुचि रखते होंगे ।
+$addressee        5        -        -        7:k1        -        respect        -        -
+samaya_1        1        -        -         2:rprop                -        -        -        -
+ho_1        2        -        -        3:mod        -        -        -        -
+parivarwana_1        3        pl        pl        4:k2        -        -        -        -
+samaJa_1        4        -        -        7:k7        -        -        -        -
+ruci_2        6        -        -        7:k2        -        -        -        -
+raKa_1-wA_hogA_1        7        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0017a.7:vyaBIcAra        -        -        -
+%affirmative
+</sent_id>

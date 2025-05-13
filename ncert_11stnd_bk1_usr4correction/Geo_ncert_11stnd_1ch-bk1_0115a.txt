@@ -1,0 +1,18 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0115a>
+#उदाहरणार्थ, अ स्थान ब स्थान से 1,500 कि°मी° दूर है जिसे विकल्प के रूप में यह भी कहा जा सकता है ।
+a_1        15        -        -        8:k1        -        -        -        -
+sWAna_1        2        -        -        13:rs        -        -        -        -
+ba_1        3        -        -        8:k5        -        -        -        -
+sWAna_1        4        -        -        13:rs        -        -        -        -
+1500        5        numex        -        -        -        -        -        13:count
+kilomItara_1        6        -        -        -        -        -        -        13:unit
+[dist_meas_1]        13        -        -        8:meas        -        -        -        -
+xUra_1        7        -        -        8:k1s        -        -        -        -
+hE_1-pres        8        -        -        0:main                Geo_ncert_11stnd_1ch-bk1_0114.13:uXaharaNasvarUpa        -        -        -
+$yax        9        -        -        12:k2        8:coref        -        -        -
+vikalpa_1        10        -        -        14:r6        -        -        -        -
+rUpa_1        14        -        -        12:krvn        -        -        -        -
+$wyax        11        -        -        12:k2s        -        proximal        BI_1        -
+kaha_1-yA_jA_sakawA_hE_1        12        -        -        8:rcelab        -        -        -        -
+%pass_affirmative
+</sent_id>

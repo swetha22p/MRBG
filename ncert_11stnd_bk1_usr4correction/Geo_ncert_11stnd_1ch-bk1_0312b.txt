@@ -1,0 +1,11 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0312b>
+#कि बिग बैंग की घटना आज से 13.7 अरब वर्षों पहले हुई थी।
+biga+bEMga        1        ne        -        3:r6        -        -        -        -
+GatanA_1        3        -        -        9:k1        -        -        -        -
+Aja_1        4        -        -        9:k7t        -        -        -        -
+13700000000        5        numex        -        6:mod        -        -        -        -
+varRa_1        7        -        pl        8:rkl        -        -        -        -
+pahalA_1        8        -        -        9:k7t        -        -        -        -
+ho_1-yA_WA_1        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,12 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0160b>
+#तो सर्वप्रथम विश्व स्तर पर उसका अध्ययन किया जायेगा ।
+sarvapraWama_1        1        -        -        4:krvn        -        -        -        -
+viSva_1        7        -        -        -        -        -        -        2:mod
+swara_1        8        -        -        -        -        -        -        2:head
+[nc_1]        2        -        -        4:k7        -        -        -        -
+$wyax        3        -        -        4:k2        Geo_ncert_11stnd_1ch-bk1_0160a.4:coref        distal        -        -
+aXyayana_1        5        -        -        -        -        -        -        4:kriyAmUla
+kara_1-yA_jA_gA_1        6        -        -        -        -        -        -        4:verbalizer
+[cp_1]        4        -        -        0:main        -        -        -        -
+%pass_affirmative
+</sent_id>

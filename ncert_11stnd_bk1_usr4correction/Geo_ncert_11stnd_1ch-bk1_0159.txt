@@ -1,0 +1,11 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0159>
+#तत्पश्चात् क्षेत्रीय स्वरूप के वर्गीकृत प्रकारों की पहचान की जाती है ।
+kRewrIya_1        2        -        -        3:mod        -        -        -        -
+svarUpa_1        3        -        -        5:r6        -        -        -        -
+vargIkqwa_1        4        -        -        5:mod        -        -        -        -
+prakAra_1        5        -        pl        6:k2        -        -        -        -
+pahacAna_1        7        -        -        -        -        -        -        6:kriyAmUla
+kara_1-yA_jA_wA_hE_1        8        -        -        -        -        -        -        6:verbalizer
+[cp_1]        6        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0158.7:uwwarakAla        -        -        -
+%pass_affirmative
+</sent_id>

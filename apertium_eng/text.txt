@@ -1,0 +1,70 @@
+
+
+['Mary', '1', 'per/female', '-', '3:k1', '-', '-', '-', '-']
+['book_1', '2', '-', '-', '3:k2', '-', 'def', '-', '-'] - head
+['read_1-wA_hE_1', '3', '-', '-', '0:main', '-', '-', '-', '-'] - head
+
+
+log : [OK]:Mary identified as other word, but processed as noun with default GNP.
+log : [OK]:book_1 identified as other word, but processed as noun with default GNP.
+log : [OK]:read_1-wA_hE_1 identified as verb.
+log : [OK]:inside tam ya else
+log : [OK]:Mary processed as noun with case:d gen:f num:s noun_type:proper postposition: None.
+log : [OK]:book_1 processed as noun with case:d gen:m num:s noun_type:common postposition: None.
+
+
+identified category-----------> [] [] [] 
+[(1, 'Mary', 'per/female', '', '3:k1', '', '', '', ''), (2, 'book_1', '', '', '3:k2', '', 'def', '', '')] [] [] 
+[(3, 'read_1-wA_hE_1', '', '', '0:main', '', '', '', '')] [] [] []
+
+final tuple:
+[(1, 'Mary', 'n', 'd', 'f', 's', 'a', 'proper', None), 
+(2, 'book', 'n', 'd', 'm', 's', 'a', 'common', None),
+(3, 'read', 'v', 'f', 's', 'a', 'wA', 'o', 'main'), 
+(3.1, 'hE', 'v', 'f', 's', 'a', 'hE', 'o', 'auxiliary')]
+
+[('Mary', 'np', 'ant', 'f', 's'), ('book', 'n', 'sg'), ('read', 'vblex', 'pprs'), '', ('be', 'vaux', 'pres')]
+
+morph_input_final_tuple =================>> ['^Mary<np><ant><f><sg>$', '^book<n><sg>$', '^read<vblex><pres><p3><sg>$', '']
+
+hindi: ['Mary', '^book<cat:n><case:d><gen:m><num:s>$', '^read<cat:v><gen:f><num:s><per:a><tam:wA>$', '^hE<cat:v><gen:f><num:s><per:a><tam:hE>$']
+
+
+is+ing/was+ing----->Mary is reading the book.
+[(1, 'Mary', 'n', 'd', 'f', 's', 'a', 'proper', None),
+(2, 'book', 'n', 'd', 'm', 's', 'a', 'common', None), 
+(3, 'read', 'v', 'f', 's', 'a', '0', 'o', 'main'), if 'raha' in next tuple then 'pprs and 'vblex' on 'head'----->reading
+(3.1, 'raha', 'v', 'f', 's', 'a', 'yA', 'o', 'auxiliary'), 
+(3.2, 'hE', 'v', 'f', 's', 'a', 'hE', 'o', 'auxiliary')] if 'hE' is follows 'raha' then 'be', 'vaux' and 'pres' -------->is
+if 'wA' is followed by 'raha' then 'be', 'vaux' and 'past' 
+
+
+has+second_form------->
+[(1, 'Mary', 'n', 'd', 'f', 's', 'a', 'proper', None), 
+(2, 'book', 'n', 'd', 'm', 's', 'a', 'common', None), 
+(3, 'read', 'v', 'f', 's', 'a', 'yA', 'o', 'main'), if the 'tam' is 'yA' and next tuple has 'hE' then 'pp' and 'vblex' on 'head'
+(3.1, 'hE', 'v', 'f', 's', 'a', 'hE', 'o', 'auxiliary')] if 'head' has 'yA' and is followed by 'hE' then  'have<vblex><pres><person><number>'
+if 'head' has 'yA' and is followed by 'wA' then  'have<vblex><past><person><number>
+
+morph_input_final_tuple =================>> ['^Mary<np><ant><f><sg>$', '^book<n><sg>$', '^read<vblex><pres>$', '^have<vbhaver><pres><p3><sg>$']
+
+
+[('Mary', 'np', 'ant', 'f', 's'), ('book', 'n', 'sg'), ('read', 'vblex', 'pprs'), '^raha$', ('be', 'vaux', 'past')]
+[('Mary', 'np', 'ant', 'f', 's'), ('book', 'n', 'sg'), ('read', 'vblex', 'pprs'), '^raha$', ('be', 'vaux', 'past')]
+
+
+
+morph_input_final_tuple =================>> ['^Mary<np><ant><f><sg>$', '^book<n><sg>$', '^read<vblex><pprs>$', '^raha$', '^hE$']
+
+
+[(1, 'Mary', 'n', 'd', 'f', 's', 'a', 'proper', None), 
+(2, 'book', 'n', 'd', 'm', 's', 'a', 'common', None), 
+(3, 'read', 'v', 'f', 's', 'a', 0, 'o', 'main'),
+ (3.1, 'dAla', 'v', 'f', 's', 'a', 'yA', 'o', 'auxiliary'),
+  (3.2, 'hE', 'v', 'f', 's', 'a', 'hE', 'o', 'auxiliary')]
+
+
+
+1. main verb: suffix or nor suffix
+2. auxillary after main or 
+3. 

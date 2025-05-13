@@ -1,0 +1,10 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0352b>
+#और घनीभूत भी न हो सकीं ।
+##और वे घनीभूत भी न हो सकीं।
+$wyax        4        -        -        1:k1        Geo_ncert_11stnd_1ch-bk1_0352a.11:coref                distal        -        -
+GanIBUwa_1        2        -        -        -        -        BI_1        -        1:kriyAmUla
+ho_1-0_sakA_1        3        -        -        -        -        -        -        1:verbalizer
+[cp_1]        1        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0352a.7:samuccaya        -        -        -
+na_1        5        -        -        1:neg        -        -        -        -
+%negative
+</sent_id>

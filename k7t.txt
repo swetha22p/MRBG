@@ -1,0 +1,155 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0389>
+#बायुमंडल में उपस्थित कार्बन डाई ऑक्साइड के वर्षा के पानी में घुलने से तापमान में और अधिक गिरावट आई ।
+vAyumaMdala_1        1        -        -        2:k7p        -        -        -        -
+upasWiwa_1        2        -        -        3:mod        -        -        -        -
+kArbana+dAI+oYksAida_1        3        -        -        5:r6        -        -        -        -
+varRA_1        5        -        -        6:r6        -        -        -        -
+pAnI_1        6        -        -        7:k7        -        -        -        -
+Gula_1        7        -        -        12:rh        -        -        -        -
+wApamAna_1        8        -        -        12:k7        -        -        -        -
+Ora_1        9        -        -        10:intf        -        -        -        -
+aXika_1        10        -        -        11:quant        -        -        -        -
+girAvata_1        11        -        -        12:k1        -        -        -        -
+A_1-yA_1        12        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0386>
+#वह प्रक्रिया जिससे पृथ्वी के भीतरी भाग से गैसें धरती पर आईं,इसे[f] गैस उत्सर्जन कहा जाता है ।
+$wyax        1        -        -        2:dem        -        distal        -        -
+prakriyA_1        2        -        -        12:k1        -        -        -        -
+$yax        3        -        -        9:rh        2:coref        -        -        -
+pqWvI_1        4        -        -        6:r6        -        -        -        -
+BIwarI_1        5        -        -        6:mod        -        -        -        -
+BAga_1        6        -        -        9:k5        -        -        -        -
+gEsa_1        7        -        pl        9:k1        -        -        -        -
+XarawI_1        8        -        -        9:k7p        -        -        -        -
+A_1-yA_1        9        -        -        12:rcsamAnakAla        -        -        -        -
+$wyax        10        -        -        12:k2        -        proximal        -        -
+gEsa_1        13        -        -        -        -        -        -        11:mod
+uwsarjana_1        14        -        -        -        -        -        -        11:head
+[nc_1]        11        -        -        12:k2s        -        -        -        -
+kaha_1-yA_jA_wA_hE_1        12        -        -        0:main        -        [shade:jA_1]        -        -
+%affirmative
+</sent_id>
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0383>
+#और विभेदन के दौरान, पृथ्वी के अंदरूनी भाग से बहुत सी गैसें व जलवाष्प बाहर निकले ।
+viBexana_1        1        -        -        9:k7t        -        -        -        -
+pqWvI_1        2        -        -        4:r6        -        -        -        -
+aMxarUnI_1        3        -        -        4:mod        -        -        -        -
+Baga_1        4        -        -        9:k5        -        -        -        -
+bahuwa_1        5        -        -        6:intf        -        -        -        -
+gEsa_1        6        -        pl        -        -        -        -        10:op1
+jalavARpa_1        7        -        -        -        -        -        -        10:op2
+bAhara_1        8        -        -        9:k7p        -        -        -        -
+nikala_1-yA_1        9        -        -        0:main        -        -        -        -
+[conj_1]        10        -        -        9:k1        -        -        -        -
+%affirmative
+</sent_id>
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0362>
+#उनके अनुसार चंद्रमा का निमार्ण उसी पदार्थ से हुआ है जहाँ आज प्रशांत महासागर एक गर्त के रूप में मौजूद है ।
+$wyax        1        -        -        6:k7a        Geo_ncert_11stnd_1ch-bk1_0360a.4:coref        distal        -        -
+caMxramA_1        2        -        -        3:k2        -        -        -        -
+nirmANa_1        3        -        -        6:k1        -        -        -        -
+$wyax        4        -        -        5:dem        -        distal        -        -
+paxArWa_1        5        -        -        6:rh        -        -        -        -
+ho_1-yA_hE_1        6        -        -        0:main        -        -        -        -
+$yax        7        -        -        14:k7p        5:coref        -        -        -
+Aja_1        8        -        -        14:k7t        -        -        -        -
+praSAMwa        9        ne        -        14:k1        -        -        -        -
+mahAsAgara_1        10        -        -        9:rs        -        -        -        -
+eka_2        11        -        -        12:card        -        -        -        -
+garwa_1        12        -        -        14:k7        -        -        -        -
+rUpa_1        15        -        -        14:krvn        -        -        -        -
+mOjUxa_1        13        -        -        14:k1s        -        -        -        -
+hE_1-pres        14        -        -        6:rcloc        -        -        -        -
+%affirmative
+</sent_id>
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0354>
+#सौर वायु सूर्य के नजदीक ज्यादा शक्तिशाली थी ।
+sOra_1        1        -        -        -        -        -        -        7:mod
+vAyu_1        2        -        -        -        -        -        -        7:head
+[nc_1]        7        -        -        6:k1        -        -        -        -
+sUrya_1        3        -        -        4:rdl        -        -        -        -
+najaxIka_1        4        -        -        6:k7p        -        -        -        -
+SakwiSAlI_1        5        -        -        6:k1s        -        -        -        -
+hE_1-past        6        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0352a>
+#पार्थिव ग्रह जनक तारे के बहुत समीप बनें जहाँ अत्यधिक तापमान के कारण गैसें संघनित नहीं हो पाई ।
+##पार्थिव ग्रह जनक तारे के बहुत समीप बने जहाँ अत्यधिक तापमान के कारण गैसें संघनित नहीं हो पाई ।
+pArWiva_1        1        -        -        2:mod        -        -        -        -
+graha_1        2        -        -        7:k1        -        -        -        -
+janaka_1        3        -        -        -        -        -        -        16:mod
+wArA_1        4        -        -        -        -        -        -        16:head
+[nc_1]        16        -        -        7:k7        -        -        -        -
+bahuwa_1        5        -        -        6:quant        -        -        -        -
+samIpa_1        6        -        -        7:k7        -        -        -        -
+bana_1-yA_1        7        -        -        0:main        -        -        -        -
+$yax        8        -        -        12:k7p        6:coref        -        -        -
+awyaXika_1        9        -        -        10:mod        -        -        -        -
+wApamAna_1        10        -        -        12:rh        -        -        -        -
+gEsa_1        11        -        pl        12:k1        -        -        -        -
+saMGaniwa_1        14        -        -        -        -        -        -        12:kriyAmUla
+ho_1-yA_1        15        -        -        -        -        [shade:pA_1]        -        12:verbalizer
+[cp_1]        12        -        -        7:rcloc        -        -        -        -
+nahIM_1        13        -        -        12:neg        -        -        -        -
+%negative
+</sent_id>
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0342>
+#हमारे        सौरमंडल        में        सूर्य        8        ग्रह,        63        उपग्रह,        लाखों        छोटे        पिंड        जैसे-श्लुद्र        ग्रह        (ग्रहों        के        टुकडे),        धूमकेतु        एवं        बृहत्        मात्रा        में        धूलिकण        व        गैस        हें        ।
+##हमारे        सौरमंडल        में        सूर्य        8        ग्रह,        63        उपग्रह, एक लाख से अधिक छोटे        पिंड        जैसे-क्षुद्र ग्रह        (ग्रहों        के        टुकडे),        धूमकेतु        एवं        बृहत्        मात्रा        में        धूलिकण        व        गैस        हैं।
+$speaker        1        anim        pl        2:r6        -        -        -        -
+sOramaMdala_1        2        -        -        21:k7p        -        -        -        -
+sUrya_1        3        -        -        -        -        -        -        22:op1
+8        5        numex        -        6:card        -        -        -        -
+graha_1        6        -        -        -        -        -        -        22:op2
+63        7        numex        -        8:card        -        -        -        -
+upagraha_1        8        -        -        -        -        -        -        22:op3
+100000        9        -        -        11:card        -        -        -        -
+aXika_1        4        -        -        11:quant        -        -        -        -
+CotA_1        10        -        -        11:mod        -        -        -        -
+piMda_1        11        -        -        -        -        -        -        22:op4
+kRuxra_1        12        -        -        13:mod        -        -        -        -
+graha_1        13        -        -        -        -        -        -        23:op1
+graha_1        14        -        pl        15:r6        -        -        -        -
+tukadA_1        15        -        -        13:rs        -        -        -        -
+XUmakewu_1        16        -        -        -        -        -        -        23:op2
+bqhaw_1        17        -        -        18:mod        -        -        -        -
+mAwrA_1        18        -        -        21:k7        -        -        -        -
+XUlikaNa_1        19        -        -        -        -        -        -        23:op3
+gEsa_1        20        -        -        -        -        -        -        23:op4
+hE_1-pres        21        -        -        0:main        -        -        -        -
+[conj_1]        22        -        -        21:ru        -        -        -        -
+[conj_2]        23        -        -        21:k1        -        -        -        -
+%affirmative
+</sent_id>
+
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0324>
+#प्रारंभिक ब्रह्मांड में ऊर्जा व पदार्थ का वितरण समान नहीं था ।
+prAraMBika_1        1        -        -        2:mod        -        -        -        -
+brahmAMda_1        2        -        -        8:k7p        -        -        -        -
+UrjA_1        3        -        -        -        -        -        -        9:op1
+paxAraWa_1        4        -        -        -        -        -        -        9:op2
+viwarana_1        5        -        -        8:k1        -        -        -        -
+samAna_1        6        -        -        8:k1s        -        -        -        -
+nahIM_1        7        -        -        8:neg        -        -        -        -
+hE_1-past        8        -        -        0:main        -        -        -        -
+[conj_1]        9        -        -        5:r6        -        -        -        -
+%negative
+</sent_id>
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0311>
+#बिग बेंग की प्रक्रिया में इस अति छोटे गोलक में भीषण विस्फोट हुआ ।
+##बिग बैंग की प्रक्रिया में इस अति छोटे गोलक में भीषण विस्फोट हुआ।
+biga+bEMga        1        ne        -        3:r6        -        -        -        -
+prakriyA_1        3        -        -        10:k7        -        -        -        -
+$wyax        4        -        -        7:dem        -        proximal        -        -
+awi_1        5        -        -        6:intf        -        -        -        -
+CotA_1        6        -        pl        7:mod        -        -        -        -
+golaka_1        7        -        -        10:k7p        -        -        -        -
+BIRaNa_1        8        -        -        9:mod        -        -        -        -
+visPota_1        9        -        -        10:k1        -        -        -        -
+ho_1-yA_1        10        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>
+

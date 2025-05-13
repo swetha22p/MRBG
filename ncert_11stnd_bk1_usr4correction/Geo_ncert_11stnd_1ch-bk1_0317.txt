@@ -1,0 +1,15 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0317>
+#बिग बैंग होने के आरंभिक तीन मिनट के अंर्तगत ही पहले परमाणु का निर्माण हुआ ।
+biga+bEMga        1        ne        -        3:k1        -        -        -        -
+ho_1        3        -        -        7:r6        -        -        -        -
+AraMBika_1        4        -        -        2:mod        -        -        -        -
+3        5        numex        -        -        -        -        -        12:count
+minata_1        2        -        -        -        -        -        -        12:unit
+[time_meas_1]        12        -        -        7:rkl        -        -        -        -
+pahalA_1        7        -        -        9:k7t        -        -        -        -
+paramANu_1        8        -        -        9:k2        -        -        -        -
+nirmANa_1        10        -        -        -        -        -        -        9:kriyAmUla
+ho_1-yA_1        11        -        -        -        -        -        -        9:verbalizer
+[cp_1]        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,19 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0385>
+#आरंभ में वायुमंडल में जलवाष्प, नाइट्रोजन, कार्बन डाई ऑक्साइड, मीथेन व अमोनिया अधिक मात्रा में, और स्वतंत्र ऑक्सीजन बहुत कम थी ।
+AraMBa_1        1        -        -        14:k7t        -        -        -        -
+vAyuMMdala_1        2        -        -        14:k7        -        -        -        -
+jalavARpa_1        3        -        -        -        -        -        -        15:op1
+nAitrojana_1        4        -        -        -        -        -        -        15:op2
+kArbana+dAI+oYksAida_1        5        -        -        -        -        -        -        15:op3
+mIWena_1        6        -        -        -        -        -        -        15:op4
+amoniyA_1        7        -        -        -        -        -        -        15:op5
+aXika_1        8        -        -        9:mod        -        -        -        -
+mAwrA_1        9        -        -        14:k7        -        -        -        -
+svawaMwra_1        10        -        -        11:mod        -        -        -        -
+oYksIjana_1        11        -        -        14:k1s        -        -        -        -
+bahuwa_1        12        -        -        13:intf        -        -        -        -
+kama_1        13        -        -        14:k1s        -        -        -        -
+hE_1-past        14        -        -        0:main        -        -        -        -
+[conj_1]        15        -        -        14:k1        -        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,18 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0386>
+#वह प्रक्रिया जिससे पृथ्वी के भीतरी भाग से गैसें धरती पर आईं,इसे[f] गैस उत्सर्जन कहा जाता है ।
+$wyax        1        -        -        2:dem        -        distal        -        -
+prakriyA_1        2        -        -        12:k1        -        -        -        -
+$yax        3        -        -        9:rh        2:coref        -        -        -
+pqWvI_1        4        -        -        6:r6        -        -        -        -
+BIwarI_1        5        -        -        6:mod        -        -        -        -
+BAga_1        6        -        -        9:k5        -        -        -        -
+gEsa_1        7        -        pl        9:k1        -        -        -        -
+XarawI_1        8        -        -        9:k7p        -        -        -        -
+A_1-yA_1        9        -        -        12:rcsamAnakAla        -        -        -        -
+$wyax        10        -        -        12:k2        -        proximal        -        -
+gEsa_1        13        -        -        -        -        -        -        11:mod
+uwsarjana_1        14        -        -        -        -        -        -        11:head
+[nc_1]        11        -        -        12:k2s        -        -        -        -
+kaha_1-yA_jA_wA_hE_1        12        -        -        0:main        -        [shade:jA_1]        -        -
+%affirmative
+</sent_id>

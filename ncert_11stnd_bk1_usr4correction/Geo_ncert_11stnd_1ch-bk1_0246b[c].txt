@@ -1,0 +1,5 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0246b[c]>
+#अथवा नहीं ?
+nahIM_1        1        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0246a.4:anyawra        -        -        -
+%negative
+</sent_id>

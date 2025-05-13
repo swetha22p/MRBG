@@ -1,0 +1,22 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0196F>
+#भू-सूचना विज्ञान तकनीक,जैसे - दूर संवेदन तकनीक, भौगोलिक सूचना तंत्र , वैश्विक स्थितीय तंत्र ।
+BU+sUcanA_1        1        -        -        -        -        -        -        16:mod
+vijFAna_1        3        -        -        -        -        -        -        16:head
+wakanIka_1        4        -        -        -        -        -        -        17:head
+[nc_1]        16        -        -        -        -        -        -        17:mod
+[nc_2]        17        -        -        19:ru        -        -        -        -
+xUra_1        5        -        -        11:k7p        -        -        -        6:mod
+saMvexana_1        12        -        -        -        -        -        -        6:head
+wakanIka_1        13        -        -        -        -        -        -        18:head        
+[nc_3]        6        -        -        -        -        -        -        18:mod
+[nc_4]        18        -        -        -        -        -        -        19:op1
+BOgolika_1        7        -        -        14:mod        -        -        -        -
+sUcanA_1        14        -        -        -        -        -        -        8:mod
+waMwra_1        15        -        -        -        -        -        -        8:head
+[nc_5]        8        -        -        -        -        -        -        19:op2
+vESvika_1        9        -        -        11:mod        -        -        -        -
+sWiwIya_1        10        -        -        11:mod        -        -        -        -
+waMwra_1        11        -        -        0:main        -        -        -        -
+[conj_1]        19        -        -        17:re        -        -        -        -
+%affirmative
+</sent_id>

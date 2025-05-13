@@ -1,0 +1,19 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0030>
+#अब आप पहले पूछे गए प्रश्न: 'भूगोल क्या है ?' का उत्तर देने का सक्षम प्रयास कर सकते हैं ।
+aba_1        1        -        -        12:k7t        -        -        -        -
+$addressee        2        -        -        12:k1        -        respect        -        -
+pahale_1        3        -        -        4:k7t        -        -        -        -
+pUCa_1        4        -        -        5:rbks        -        -        -        -
+praSna_1        5        -        -        7:k2        -        -        -        -
+BUgola_1        6        -        -        16:k1        -        -        -        -
+$kim        15        -        -        16:k1s        -        -        -        -
+hE_1-pres        16        -        -        5:rs        -        -        -        -
+uwwara_1        9        -        -        -        -        -        -        7:kriyAmUla
+xe_1        10        -        -        -        -        -        -        7:verbalizer
+[cp_1]        7        -        -        12:k2        -        -        -        -
+sakRama_1        11        -        -        13:mod        -        -        -        -
+prayAsa_1        13        -        -        -        -        -        -        12:kriyAmUla
+kara_1-0_sakawA_hE_1        14        -        -        -        -        -        -        12:verbalizer
+[cp_2]        12        -        -        0:main        -        -        -        -
+%interrogative
+</sent_id>

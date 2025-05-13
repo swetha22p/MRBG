@@ -1,0 +1,12 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0254>
+#आपने हाथी, हिरण, केचुए, वृक्ष एवं घास देखा है ।
+$addressee        1        -        -        6:k1        -        respect        -        -
+hAWI_1        2        anim        -        -        -        -        -        9:op1
+hiraNa_1        7        anim        -        -        -        -        -        9:op2
+kecua_1        4        anim        -        -        -        -        -        9:op3
+vqkRa_1        8        -        -        -        -        -        -        9:op4
+GAsa_1        5        -        -        -        -        -        -        9:op5
+xeKa_1-yA_hE_1        6        -        -        0:main        -        -        -        -
+[conj_1]        9        -        -        6:k2        -        -        -        -
+%affirmative
+</sent_id>

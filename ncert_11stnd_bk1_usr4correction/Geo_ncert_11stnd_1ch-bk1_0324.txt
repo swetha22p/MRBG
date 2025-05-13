@@ -1,0 +1,13 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0324>
+#प्रारंभिक ब्रह्मांड में ऊर्जा व पदार्थ का वितरण समान नहीं था ।
+prAraMBika_1        1        -        -        2:mod        -        -        -        -
+brahmAMda_1        2        -        -        8:k7p        -        -        -        -
+UrjA_1        3        -        -        -        -        -        -        9:op1
+paxAraWa_1        4        -        -        -        -        -        -        9:op2
+viwarana_1        5        -        -        8:k1        -        -        -        -
+samAna_1        6        -        -        8:k1s        -        -        -        -
+nahIM_1        7        -        -        8:neg        -        -        -        -
+hE_1-past        8        -        -        0:main        -        -        -        -
+[conj_1]        9        -        -        5:r6        -        -        -        -
+%negative
+</sent_id>

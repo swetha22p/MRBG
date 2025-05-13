@@ -1,0 +1,21 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0106>
+#नये विश्व के देशों के चारो तरफ विस्तृत समुद्र द्वारा प्रदत्त रक्षा कवच उन्हें उनकी मिट्टी पर युद्ध होने से बचाता रहा है ।
+nayA_1        1        -        -        2:mod        -        -        -        -
+viSva_1        2        -        -        3:r6        -        -        -        -
+xeSa_1        3        -        pl        4:r6        -        -        -        -
+cAro+waraPa_1        4        -        -        6:krvn        -        -        -        -
+viswqwa_1        6        -        -        7:mod        -        -        -        -
+samuxra_1        7        -        -        8:k1        -        -        -        -
+praxawwa_1        8        -        -        14:mod        -        -        -        -
+rakRA_1        9        -        -        -        -        -        -        14:mod
+kavaca_1        10        -        -        -        -        -        -        14:head
+[nc_1]        14        -        -        15:k1        -        -        -        -
+$wyax        11        -        -        15:k2        3:coref        distal        -        -
+$wyax        12        -        -        13:r6        3:coref        distal        -        -
+mittI_1        13        -        -        14:k7p        -        -        -        -
+yuxXa_2        16        -        15:k5        -        -        -        -        18:kriyAmula
+ho_1        17        -        -        -        -        -        -        18:verbalizer
+[cp_1]        18        -        -        15:k5        -        -        -        -
+bacA_1-wA_rahA_hE_1        15        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

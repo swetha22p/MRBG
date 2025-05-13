@@ -1,0 +1,11 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0341c>
+#व ग्रह लगभग 4.6 अरब से 4.56 अरब वर्षों पहले बने ।
+graha_1        1        -        -        7:k1        -        -        -        -
+4600000000        2        -        -        -        -        -        -        5:start
+4560000000        3        -        -        -        -        -        -        5:end
+varRa_1        4        -        pl        16:rkl        -        -        -        -
+[span_1]        5        -        -        7:k7t        -        lagaBaga_1        -        -
+pahalA_1        6        -        -        7:k7t        -        -        -        -
+bana_1-yA_1        7        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0341b.9:samuccaya        -        -        -
+%affirmative
+</sent_id>

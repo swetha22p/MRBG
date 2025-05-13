@@ -1,0 +1,28 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0192a>
+#संपूर्ण विश्व में पर्यावरणीय प्रतिबोधन के फलस्वरूप पर्यावरणीय समस्याओं, जैसे-भूमि-हास, प्रदूषण, संरक्षण की चिंता आदि का अनुभव किया गया, जिसके अध्ययन हेतु इस शाखा का विकास हुआ ।
+saMpUrNa_1        1        -        -        2:mod        -        -        -        -
+viSva_1        2        -        -        11:k7p        -        -        -        -
+paryAvaraNIya_1        3        -        -        6:mod        -        -        -        -
+prawiboXana_1        4        -        -        11:rh        -        -        -        -
+paryAvaraNIya_1        5        -        -        6:mod        -        -        -        -
+samasyA_1        6        -        pl        11:k2        -        -        -        -
+BUmi_1        7        -        -        -        -        -        -        8:mod
+hAsa_1        24        -        -        -        -        -        -        8:head
+[nc_1]        8        -        -        -        -        -        -        21:op1
+praxURaNa_1        9        -        -        -        -        -        -        21:op2
+saMrakRaNa_1        22        -        -        10:r6        -        -        -        -
+ciMwA_1        10        -        -        -        -        Axi        -        21:op3
+Axi_1        23        -        -        -        -        -        -        21:op4
+anuBava_1        17        -        -        -        -        -        -        11:kriyAmUla
+kara_1-yA_gayA_1        18        -        -        -        -        -        -        11:verbalizer
+[cp_1]        11        -        -        13:rbks        -        -        -        -
+$yax        12        -        -        13:r6        6:coref        -        -        -
+aXyayana_1        13        -        -        16:rh        -        -        -        -
+$wyax        14        -        -        15:dem        -        proximal        -        -
+SAKA_1        15        -        -        16:k2        -        -        -        -
+vikAsa_1        19        -        -        -        -        -        -        16:kriyAmUla
+ho_1-yA_1        20        -        -        -        -        -        -        16:verbalizer
+[cp_2]        16        -        -        0:main        -        -        -        -
+[conj_1]        21        -        -        6:re        -        -        -        -
+%affirmative
+</sent_id>

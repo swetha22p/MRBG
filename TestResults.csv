@@ -1,0 +1,71 @@
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:populate_morpho_semantic_dict() takes 4 positional arguments but 5 were given	Error	 	
+--la	ERROR_2:populate_morpho_semantic_dict() takes 4 positional arguments but 5 were given	Error	 	
+--la	ERROR_2:type object 'constant' has no attribute 'spkview_list_b'	Error	 	
+--la	ERROR_2:type object 'constant' has no attribute 'spkview_list_b'	Error	 	
+--la	ERROR_2:type object 'constant' has no attribute 'spkview_list_b'	Error	 	
+--la	ERROR_2:type object 'constant' has no attribute 'spkview_list_b'	Error	 	
+--la	ERROR_2:type object 'constant' has no attribute 'spkview_list_b'	Error	 	
+--la	ERROR_2:type object 'constant' has no attribute 'spkview_list_b'	Error	 	
+--la	ERROR_2:type object 'constant' has no attribute 'spkview_list_b'	Error	 	
+--la	ERROR_2:module 'repository.constant' has no attribute 'morpho_seman_mapping'	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:identify_words_in_corpus() missing 1 required positional argument: 'lang'	Error	 	
+--la	ERROR_2:cannot unpack non-iterable NoneType object	Error	 	
+--la	ERROR_2:local variable 'response_data' referenced before assignment	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:'NoneType' object is not iterable	Error	 	
+--la	ERROR_2:check_verb() missing 1 required positional argument: 'lang'	Error	 	
+--la	ERROR_2:identify_cat() takes 2 positional arguments but 3 were given	Error	 	
+--la	ERROR_2:extract_tamdict() missing 1 required positional argument: 'lang'	Error	 	
+--la	ERROR_2:module 'repository.constant' has no attribute 'TAM_DICT_FILES'	Error	 	
+--la	ERROR_2:string index out of range	Error	 	
+--la	ERROR_2:'<' not supported between instances of 'str' and 'NoneType'	Error	 	
+--la	ERROR_2:unsupported operand type(s) for +: 'int' and 'str'	Error	 	
+--la	ERROR_2:populate_spkview_dict() missing 1 required positional argument: 'lang'	Error	 	
+--la	ERROR_2:'NoneType' object is not subscriptable	Error	 	
+--la	ERROR_2:local variable 'categorized_words_list' referenced before assignment	Error	 	
+--la	ERROR_2:local variable 'words_info' referenced before assignment	Error	 	
+--la	ERROR_2:populate_spkview_dict() takes 4 positional arguments but 8 were given	Error	 	
+--la	ERROR_2:populate_spkview_dict() missing 1 required positional argument: 'lang'	Error	 	
+--la	ERROR_2:process_verbs() missing 1 required positional argument: 'lang'	Error	 	
+--la	ERROR_2:process_change() takes 8 positional arguments but 9 were given	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:cannot unpack non-iterable NoneType object	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:expected str, bytes or os.PathLike object, not dict	Error	 	
+--la	ERROR_2:expected str, bytes or os.PathLike object, not dict	Error	 	
+--la	ERROR_2:identify_default_tam_for_main_verb() takes 1 positional argument but 2 were given	Error	 	
+--la	ERROR_2:populate_spkview_dict() missing 1 required positional argument: 'lang'	Error	 	
+--la	ERROR_2:cannot unpack non-iterable NoneType object	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:list index out of range	Error	 	
+--la	ERROR_2:cannot unpack non-iterable NoneType object	Error	 	
+--la	ERROR_2:cannot unpack non-iterable NoneType object	Error	 	

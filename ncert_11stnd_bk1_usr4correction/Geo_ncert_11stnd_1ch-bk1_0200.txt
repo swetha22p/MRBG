@@ -1,0 +1,18 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0200>
+#उदाहरणार्थ, जो पहले हस्तनिर्मित मानचित्रण तकनीक थी, अब संगणक निर्मित मानचित्रण में परिवर्तित हो गयी है ।
+$yax        1        -        -        2:rkl        -        -        -        -
+pahalA_1        2        -        -        5:k7t        -        -        -        -
+haswanirmiwa_1        3        -        -        13:mod        -        -        -        -
+mAnaciwraNa_1        13        -        -        -        -        -        -        4:mod
+wakanIka_1        14        -        -        -        -        -        -        4:head
+[nc_1]        4        -        -        5:k1        -        -        -        -
+hE_1-past        5        -        -        0:main        -        -        -        -
+aba_1        6        -        -        10:k7t        -        -        -        -
+saMgaNaka_1        7        -        -        8:k3        -        -        -        -
+nirmiwa_1        8        -        -        10:k1        -        -        -        -
+mAnaciwraNa_1        9        -        -        10:k7        -        -        -        -
+parivarwiwa_1        11        -        -        -        -        -        -        10:kriyAmUla
+ho_1-yA_hE_1        12        -        -        -        Geo_ncert_11stnd_1ch-bk1_0199c.10:coref        [shade:jA_1]        -        10:verbalizer
+[cp_1]        10        -        -        4:rcelab        -        -        -        -
+%affirmative
+</sent_id>

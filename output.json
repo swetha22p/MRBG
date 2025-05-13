@@ -1,0 +1,272 @@
+[
+    {
+        "text": "\u0930\u093e\u092e \u092e\u094b\u0939\u0928 \u0938\u0947 \u0915\u092e \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u093e\u0928 \u0939\u0948\u0964",
+        "usr_id": "gold_data_032",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "rAma",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 2,
+                "concept": "mohana",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "rv",
+                "dep_head": 1,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 3,
+                "concept": "intelligent_5",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1s",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "morpho_sem": "comparless"
+            },
+            {
+                "index": 4,
+                "concept": "state_copula_1",
+                "tam": "pres",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "main",
+                "dep_head": 0,
+                "constr_value": "-",
+                "constr_concept_index": "-"
+            }
+        ]
+    },
+    {
+        "text": "\u0930\u093e\u092e \u092e\u094b\u0939\u0928 \u0938\u0947 \u0915\u092e \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u093e\u0928 \u0939\u0948\u0964",
+        "usr_id": "gold_data_032",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "rAma",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 2,
+                "concept": "mohana",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "rv",
+                "dep_head": 1,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 3,
+                "concept": "intelligent_5",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1s",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "morpho_sem": "comparless"
+            },
+            {
+                "index": 4,
+                "concept": "state_copula_1",
+                "tam": "pres",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "main",
+                "dep_head": 0,
+                "constr_value": "-",
+                "constr_concept_index": "-"
+            }
+        ]
+    },
+    {
+        "text": "\u0930\u093e\u092e \u092e\u094b\u0939\u0928 \u0938\u0947 \u0915\u092e \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u093e\u0928 \u0939\u0948\u0964",
+        "usr_id": "gold_data_032",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "rAma",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 2,
+                "concept": "mohana",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "rv",
+                "dep_head": 1,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 3,
+                "concept": "intelligent_5",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1s",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "morpho_sem": "comparless"
+            },
+            {
+                "index": 4,
+                "concept": "state_copula_1",
+                "tam": "pres",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "main",
+                "dep_head": 0,
+                "constr_value": "-",
+                "constr_concept_index": "-"
+            }
+        ]
+    },
+    {
+        "text": "\u0930\u093e\u092e \u092e\u094b\u0939\u0928 \u0938\u0947 \u0915\u092e \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u093e\u0928 \u0939\u0948\u0964",
+        "usr_id": "gold_data_032",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "rAma",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 2,
+                "concept": "mohana",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "rv",
+                "dep_head": 1,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 3,
+                "concept": "intelligent_5",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1s",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "morpho_sem": "comparless"
+            },
+            {
+                "index": 4,
+                "concept": "state_copula_1",
+                "tam": "pres",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "main",
+                "dep_head": 0,
+                "constr_value": "-",
+                "constr_concept_index": "-"
+            }
+        ]
+    },
+    {
+        "text": "\u0930\u093e\u092e \u092e\u094b\u0939\u0928 \u0938\u0947 \u0915\u092e \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u093e\u0928 \u0939\u0948\u0964",
+        "usr_id": "gold_data_032",
+        "sent_type": "affirmative",
+        "tokens": [
+            {
+                "index": 1,
+                "concept": "rAma",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 2,
+                "concept": "mohana",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "rv",
+                "dep_head": 1,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "sem_category": "per/male"
+            },
+            {
+                "index": 3,
+                "concept": "intelligent_5",
+                "tam": null,
+                "is_combined_tam": false,
+                "type": null,
+                "dep_rel": "k1s",
+                "dep_head": 4,
+                "constr_value": "-",
+                "constr_concept_index": "-",
+                "morpho_sem": "comparless"
+            },
+            {
+                "index": 4,
+                "concept": "state_copula_1",
+                "tam": "pres",
+                "is_combined_tam": true,
+                "type": null,
+                "dep_rel": "main",
+                "dep_head": 0,
+                "constr_value": "-",
+                "constr_concept_index": "-"
+            }
+        ]
+    }
+]

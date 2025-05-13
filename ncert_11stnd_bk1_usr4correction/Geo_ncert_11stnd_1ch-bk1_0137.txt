@@ -1,0 +1,22 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0137>
+#सामाजिक विज्ञान के सभी विषय, यथा समाजशास्त्र, राजनीति विज्ञान, अर्थशास्त्र, जनांकिकी, सामाजिक यथार्थता का अध्ययन करते हैं ।
+##आप सामाजिक विज्ञान के सभी विषय, यथा समाजशास्त्र, राजनीति विज्ञान, अर्थशास्त्र, जनांकिकी, सामाजिक यथार्थता का अध्ययन करते हैं ।
+$addressee        17        -        -        13:k1        -        respect        -        -
+sAmAjika_1        1        -        -        2:mod        -        -        -        -
+vijFAna_1        2        -        -        4:r6        -        -        -        -
+saBI_1        3        -        -        4:quant        -        -        -        -
+viRaya_1        4        -        -        13:k2        -        -        -        -
+samAjaSAswra_1        6        -        -        -        -        -        -        16:op1
+rAjanIwi_1        7        -        -        -        -        -        -        5:mod
+vijFAna_1        8        -        -        -        -        -        -        5:head
+[nc_1]        5        -        -        -        -        -        -        16:op2
+arWaSAswra_1        9        -        -        -        -        -        -        16:op3
+janAMkikI_1        10        -        -        -        -        -        -        16:op4
+sAmAjika_1        11        -        -        12:mod        -        -        -        -
+yaWArWawA_1        12        -        -        -        -        -        -        16:op5
+aXyayana_1        14        -        -        -        -        -        -        13:kriyAmUla
+kara_1-wA_hE_1        15        -        -        -        -        -        -        13:verbalizer
+[cp_1]        13        -        -        0:main        -        -        -        -
+[conj_1]        16        -        -        4:re        -        -        -        -
+%affirmative
+</sent_id>

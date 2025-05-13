@@ -1,0 +1,8 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_161b>
+#उनका विवेचन करना होगा ।
+$wyax        1        -        -        4:k2        Geo_ncert_11stnd_1ch-bk1_0161a.17:coref                distal        -        -
+vivecana_1        2        -        -        -        -        -        -        4:kriyAmUla
+kara_1-nA_hogA_1        3        -        -        -        -        -        -        4:verbalizer
+[cp_1]        4        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

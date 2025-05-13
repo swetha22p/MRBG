@@ -1,0 +1,12 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0391>
+#पृथ्वी पर उपस्थित महासागर पृथ्वी की उत्पत्ति से लगभग 50 करोड सालों के अंतर्गत बनें ।
+pqWvI_1        1        -        -        2:k7        -        -        -        -
+upasWiwa_1        2        -        -        3:mod        -        -        -        -
+mahAsAgara_1        3        -        -        9:k1        -        -        -        -
+pqWvI_1        4        -        -        5:r6        -        -        -        -
+uwpawwi_1        5        -        -        9:k5        -        -        -        -
+5000000000        6        numex        -        7:card        -        -        -        -
+sAla_1        7        -        pl        9:k2        -        lagaBaga        -        -
+bana_1-yA_1        9        -        -        0:main        -        -        -        -
+%affirmative
+</sent_id>

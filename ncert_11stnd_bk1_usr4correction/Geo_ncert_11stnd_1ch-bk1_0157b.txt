@@ -1,0 +1,19 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0157b>
+#जबकि प्रादेशिक भूगोल का विकास हम्बोल्ट के समकालीन एक दूसरे जर्मन भूगोलवेत्ता कार्ल रिटर (1779-1859) द्वारा किया गया ।
+prAxeSika_1        1        -        -        2:mod        -        -        -        -
+BUgola_1        2        -        -        3:k2        -        -        -        -
+vikAsa_1        14        -        -        -        -        -        -        3:kriyAmUla
+kara_1-yA_gayA_1        15        -        -        -        -        [shade:jA_1]        -        3:verbalizer
+[cp_1]        3        -        -        0:main        Geo_ncert_11stnd_1ch-bk1_0157a.11:viroXI_xyowaka        -        -        -
+hambolta        4        per/male        -        5:r6        -        -        -        -
+samakAlIna_1        5        -        pl        9:mod        -        -        -        -
+1        6        -        -        9:card        -        -        -        -
+xUsarA_1        7        -        -        9:ord        -        -        -        -
+^jarmana_1        8        -        -        9:mod        -        -        -        -
+BUgolavewwA_1        9        anim        -        10:rs        -        -        -        -
+kArla+ritara        10        per/male        -        3:k1        -        -        -        -
+1779        12        yoc        -        -        -        -        -        11:start
+1859        13        yoc        -        -        -        -        -        11:end
+[span_1]        11        -        -        10:mod        -        -        -        -
+%affirmative
+</sent_id>

@@ -1,0 +1,20 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0182Ta>
+#यह मानव की आर्थिक क्रियाओं, जैसे- कृषि, उद्योग, पर्यटन, व्यापार एवं परिवहन, अवस्थापना तत्त्व एवं सेवाओं का अध्ययन है ।
+$wyax        1        -        -        15:k1        Geo_ncert_11stnd_1ch-bk1_0182T.2:coref        proximal        -        -
+mAnava_1        2        -        -        4:r6        -        -        -        -
+ArWika_1        3        -        -        4:mod        -        -        -        -
+kriyA_1        4        -        pl        18:ru        -        -        -        -
+kqRi_1        5        -        -        -        -        -        -        18:op1
+uxyoga_1        6        -        -        -        -        -        -        18:op2
+paryatana_1        7        -        -        -        -        -        -        18:op3
+vyApAra_1        8        -        -        -        -        -        -        18:op4
+parivahana_1        10        -        -        -        -        distal        -        18:op5
+avasWApanA_1        16        -        -        -        -        -        -        11:mod
+wawwva_1        12        -        -        -        -        -        -        11:head
+[nc_1]        11        -        -        -        -        -        -        18:op6
+sevA_1        13        -        pl        -        -        -        -        18:op7
+aXyayana_1        14        -        -        15:k1s        -        -        -        -
+hE_1-pres        15        -        -        0:main        -        -        -        -
+[conj_2]        18        -        -        14:r6        -        -        -        -
+%affirmative
+</sent_id>

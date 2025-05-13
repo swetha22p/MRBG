@@ -1,0 +1,11 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0267b>
+#कि भूगोल प्रादेशिक/क्षेत्रीय भिन्नता का अध्ययन है ?
+BUgola_1        1        -        -        6:k1        -        -        -        -
+prAxeSika_1        2        -        -        -        -        -        -        7:op1
+kRewrIya_1        3        -        -        -        -        -        -        7:op2
+BinnawA_1        4        -        -        5:r6        -        -        -        -
+aXyayana_1        5        -        -        6:k1s        -        -        -        -
+hE_1-pres        6        -        -        0:main        -        -        -        -
+[disjunt_1]        7        -        -        4:mod        -        -        -        -
+%interrogative
+</sent_id>

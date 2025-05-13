@@ -1,0 +1,17 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0191a>
+#इसमें प्रजातियों के निवास/स्थिति क्षेत्र का वैज्ञानिक अध्ययन किया जाता है ।
+$wyax        1        -        -        5:k7        Geo_ncert_11stnd_1ch-bk1_0191T.2:coref        proximal        -        -
+prajAwi_1        2        -        pl        10:r6        -        -        -        -
+nivAsa_1        8        -        -        -        -        -        -        3:mod
+kRewra_1        9        -        -        -        -        -        -        3:head
+[nc_2]        10        -        -        -        -        -        -        12:op1
+sWiwi_1        11        -        -        -        -        -        -        3:mod
+kRewra_1        13        -        -        -        -        -        -        3:head
+[nc_1]        3        -        -        -        -        -        -        12:op2
+vEjFAnika_1        4        -        -        5:krvn        -        -        -        -
+aXyayana_1        6        -        -        -        -        -        -        5:kriyAmUla
+kara_1-yA_jA_wA_hE_1        7        -        -        -        -        -        -        5:verbalizer
+[cp_1]        5        -        -        0:main        -        -        -        -
+[disjunt_1]        12        -        -        4:r6        -        -        -        -
+%affirmative
+</sent_id>

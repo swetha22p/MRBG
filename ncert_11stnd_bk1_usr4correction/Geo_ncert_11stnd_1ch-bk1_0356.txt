@@ -1,0 +1,16 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0356>
+#सौर पवन इतनी शक्तिशाली न होने के कारण जोवियन ग्रहों से गैसों को नहीं हटा पाई ।
+sOra_1        1        -        -        -        -        -        -        12:mod
+pavana_1        2        -        -        -        -        -        -        12:head
+[nc_1]        12        -        -        6:k1        -        -        -        -
+iwanA_1        3        -        -        4:intf        -        -        -        -
+SakwiSAlI_1        4        -        -        6:k2        -        -        -        -
+na_1        5        -        -        6:neg        -        -        -        -
+ho_1        6        -        -        11:rh        -        -        -        -
+^joviyana        7        ne        -        8:mod        -        -        -        -
+graha_1        8        -        pl        11:k5        -        -        -        -
+gEsa_1        9        -        pl        11:k2        -        -        -        -
+nahIM_1        10        -        -        11:neg        -        -        -        -
+hatA_1-yA_1        11        -        -        0:main        -        [shade:pA_1]        -        -
+%negative
+</sent_id>

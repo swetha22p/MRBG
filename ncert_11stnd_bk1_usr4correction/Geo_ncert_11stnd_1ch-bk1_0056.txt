@@ -1,0 +1,12 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0056>
+#मानव ने प्रकृति के साथ समझौता, अनुकूलन अथवा आपरिवर्तन के माध्यम से किया है ।
+mAnava_1        1        anim        -        4:k1        -        -        -        -
+prakqwi_1        2        -        -        4:k2        -        -        -        -
+samaJOwA_1        3        -        -        -        -        -        -        4:kriyAmUla
+anukUlana_1        5        -        -        -        -        -        -        7:op1
+Aparivarwana_1        8        -        -        -        -        -        -        7:op2
+kara_1-yA_hE_1        6        -        -        -        -        -        -        4:verbalizer
+[cp_1]        4        -        -        0:main        -        -        -        -
+[disjunct_1]        7        -        -        4:k3        -        -        -        -
+%affirmative
+</sent_id>

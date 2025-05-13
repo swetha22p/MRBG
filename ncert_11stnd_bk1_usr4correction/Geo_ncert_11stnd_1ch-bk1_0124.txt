@@ -1,0 +1,15 @@
+<sent_id=Geo_ncert_11stnd_1ch-bk1_0124>
+#एक भूगोलवेत्ता को गणित एवं कला, विशेषत: मानचित्र रेखांकन में, निपुण होना चाहिए ।
+eka_2        1        -        -        2:quant        -        -        -        -
+BUgolavewwA_1        2        anim        -        8:k1        -        -        -        -
+gaNiwa_1        3        -        -        -        -        -        -        11:op1
+kalA_1        4        -        -        -        -        -        -        11:op2
+viSeRawa_1        5        -        -        7:mod        -        -        -        -
+mAnaciwra_1        6        -        -        -        -        -        -        8:mod
+reKAMkana_1        7        -        -        -        -        -        -        8:head
+[nc_1]        8        -        -        -        -        -        -        11:op3
+nipuNa_1        9        -        -        10:k1s        -        -        -        -
+ho_1-nA_cAhie_1        10        -        -        0:main        -        -        -        -        
+[conj_1]        11        -        -        10:k7        -        -        -        -
+%affirmative
+</sent_id>
